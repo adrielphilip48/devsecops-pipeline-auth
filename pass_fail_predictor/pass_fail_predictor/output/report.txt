@@ -1,0 +1,48 @@
+PASS/FAIL PREDICTOR REPORT
+==================================================
+
+--- Logistic Regression ---
+Accuracy: 77.33%
+
+Feature importance (sorted by absolute weight):
+  funding_per_pupil         +1.4957
+  subject_English           -0.2915
+  teacher_retention         -0.2515
+  subject_Mathematics       -0.1774
+  subject_Chemistry         -0.1355
+  subject_Physics           -0.1265
+  year                      +0.0273
+
+Classification report:
+              precision    recall  f1-score   support
+
+           0       0.35      0.08      0.14        95
+           1       0.80      0.96      0.87       355
+
+    accuracy                           0.77       450
+   macro avg       0.57      0.52      0.50       450
+weighted avg       0.70      0.77      0.71       450
+
+
+--- Decision Tree ---
+Accuracy: 74.67%
+
+Feature importance (sorted by absolute weight):
+  teacher_retention         +0.9088
+  subject_English           +0.0307
+  year                      +0.0300
+  subject_Mathematics       +0.0193
+  subject_Chemistry         +0.0061
+  funding_per_pupil         +0.0051
+  subject_Physics           +0.0000
+
+Classification report:
+              precision    recall  f1-score   support
+
+           0       0.31      0.17      0.22        95
+           1       0.80      0.90      0.85       355
+
+    accuracy                           0.75       450
+   macro avg       0.56      0.53      0.53       450
+weighted avg       0.70      0.75      0.72       450
+
