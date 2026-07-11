@@ -1,0 +1,35 @@
+RESOURCE ALLOCATION SIMULATOR
+============================================================
+Total additional budget: 500,000,000 TZS
+
+--- Equal split ---
+  Dar es Salaam   +    6,667 TZS/pupil  pass rate:  99.2% -> 100.0%  (+0.8pp)
+  Dodoma          +    8,333 TZS/pupil  pass rate:  91.4% ->  98.8%  (+7.4pp)
+  Mwanza          +    5,000 TZS/pupil  pass rate:  81.4% ->  86.8%  (+5.4pp)
+  Tabora          +   11,111 TZS/pupil  pass rate:  59.2% ->  66.0%  (+6.8pp)
+  Katavi          +   25,000 TZS/pupil  pass rate:  53.6% ->  62.8%  (+9.2pp)
+  AVG GAIN        +5.92pp   SPREAD(stdev of new rates): 17.68
+
+--- Enrollment-weighted ---
+  Dar es Salaam   +    8,333 TZS/pupil  pass rate:  99.2% -> 100.0%  (+0.8pp)
+  Dodoma          +    8,333 TZS/pupil  pass rate:  91.4% ->  98.8%  (+7.4pp)
+  Mwanza          +    8,333 TZS/pupil  pass rate:  81.4% ->  88.4%  (+7.0pp)
+  Tabora          +    8,333 TZS/pupil  pass rate:  59.2% ->  65.1%  (+5.9pp)
+  Katavi          +    8,333 TZS/pupil  pass rate:  53.6% ->  58.9%  (+5.3pp)
+  AVG GAIN        +5.28pp   SPREAD(stdev of new rates): 19.15
+
+--- Needs-weighted ---
+  Dar es Salaam   +        0 TZS/pupil  pass rate:  99.2% ->  99.2%  (+0.0pp)
+  Dodoma          +    5,081 TZS/pupil  pass rate:  91.4% ->  97.2%  (+5.8pp)
+  Mwanza          +    4,878 TZS/pupil  pass rate:  81.4% ->  86.7%  (+5.3pp)
+  Tabora          +   17,615 TZS/pupil  pass rate:  59.2% ->  67.8%  (+8.6pp)
+  Katavi          +   45,732 TZS/pupil  pass rate:  53.6% ->  66.1%  (+12.5pp)
+  AVG GAIN        +6.44pp   SPREAD(stdev of new rates): 15.76
+
+--- Hybrid (50/50) ---
+  Dar es Salaam   +    4,167 TZS/pupil  pass rate:  99.2% -> 100.0%  (+0.8pp)
+  Dodoma          +    6,707 TZS/pupil  pass rate:  91.4% ->  98.0%  (+6.6pp)
+  Mwanza          +    6,606 TZS/pupil  pass rate:  81.4% ->  87.6%  (+6.2pp)
+  Tabora          +   12,974 TZS/pupil  pass rate:  59.2% ->  66.6%  (+7.4pp)
+  Katavi          +   27,033 TZS/pupil  pass rate:  53.6% ->  63.2%  (+9.6pp)
+  AVG GAIN        +6.12pp   SPREAD(stdev of new rates): 17.29
