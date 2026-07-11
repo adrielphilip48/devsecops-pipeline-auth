@@ -1,0 +1,1801 @@
+student_id,name,region,year,subject,score
+1001,Victor S1001,Dar es Salaam,2022,Mathematics,64
+1001,Victor S1001,Dar es Salaam,2022,English,56
+1001,Victor S1001,Dar es Salaam,2022,Physics,64
+1001,Victor S1001,Dar es Salaam,2022,Chemistry,54
+1001,Victor S1001,Dar es Salaam,2022,Biology,72
+1002,Upendo S1002,Dar es Salaam,2022,Mathematics,69
+1002,Upendo S1002,Dar es Salaam,2022,English,57
+1002,Upendo S1002,Dar es Salaam,2022,Physics,54
+1002,Upendo S1002,Dar es Salaam,2022,Chemistry,69
+1002,Upendo S1002,Dar es Salaam,2022,Biology,69
+1003,Yusuf S1003,Dar es Salaam,2022,Mathematics,66
+1003,Yusuf S1003,Dar es Salaam,2022,English,78
+1003,Yusuf S1003,Dar es Salaam,2022,Physics,57
+1003,Yusuf S1003,Dar es Salaam,2022,Chemistry,75
+1003,Yusuf S1003,Dar es Salaam,2022,Biology,79
+1004,Dotto S1004,Dar es Salaam,2022,Mathematics,75
+1004,Dotto S1004,Dar es Salaam,2022,English,46
+1004,Dotto S1004,Dar es Salaam,2022,Physics,62
+1004,Dotto S1004,Dar es Salaam,2022,Chemistry,54
+1004,Dotto S1004,Dar es Salaam,2022,Biology,56
+1005,Hamisi S1005,Dar es Salaam,2022,Mathematics,94
+1005,Hamisi S1005,Dar es Salaam,2022,English,69
+1005,Hamisi S1005,Dar es Salaam,2022,Physics,45
+1005,Hamisi S1005,Dar es Salaam,2022,Chemistry,72
+1005,Hamisi S1005,Dar es Salaam,2022,Biology,58
+1006,Winnie S1006,Dar es Salaam,2022,Mathematics,53
+1006,Winnie S1006,Dar es Salaam,2022,English,78
+1006,Winnie S1006,Dar es Salaam,2022,Physics,82
+1006,Winnie S1006,Dar es Salaam,2022,Chemistry,84
+1006,Winnie S1006,Dar es Salaam,2022,Biology,67
+1007,Winnie S1007,Dar es Salaam,2022,Mathematics,67
+1007,Winnie S1007,Dar es Salaam,2022,English,67
+1007,Winnie S1007,Dar es Salaam,2022,Physics,67
+1007,Winnie S1007,Dar es Salaam,2022,Chemistry,74
+1007,Winnie S1007,Dar es Salaam,2022,Biology,67
+1008,Prisca S1008,Dar es Salaam,2022,Mathematics,59
+1008,Prisca S1008,Dar es Salaam,2022,English,62
+1008,Prisca S1008,Dar es Salaam,2022,Physics,68
+1008,Prisca S1008,Dar es Salaam,2022,Chemistry,67
+1008,Prisca S1008,Dar es Salaam,2022,Biology,87
+1009,Mariam S1009,Dar es Salaam,2022,Mathematics,73
+1009,Mariam S1009,Dar es Salaam,2022,English,68
+1009,Mariam S1009,Dar es Salaam,2022,Physics,74
+1009,Mariam S1009,Dar es Salaam,2022,Chemistry,60
+1009,Mariam S1009,Dar es Salaam,2022,Biology,60
+1010,Upendo S1010,Dar es Salaam,2022,Mathematics,65
+1010,Upendo S1010,Dar es Salaam,2022,English,92
+1010,Upendo S1010,Dar es Salaam,2022,Physics,60
+1010,Upendo S1010,Dar es Salaam,2022,Chemistry,64
+1010,Upendo S1010,Dar es Salaam,2022,Biology,53
+1011,Victor S1011,Dar es Salaam,2022,Mathematics,65
+1011,Victor S1011,Dar es Salaam,2022,English,71
+1011,Victor S1011,Dar es Salaam,2022,Physics,64
+1011,Victor S1011,Dar es Salaam,2022,Chemistry,39
+1011,Victor S1011,Dar es Salaam,2022,Biology,81
+1012,Victor S1012,Dar es Salaam,2022,Mathematics,78
+1012,Victor S1012,Dar es Salaam,2022,English,61
+1012,Victor S1012,Dar es Salaam,2022,Physics,77
+1012,Victor S1012,Dar es Salaam,2022,Chemistry,86
+1012,Victor S1012,Dar es Salaam,2022,Biology,60
+1013,Dotto S1013,Dar es Salaam,2022,Mathematics,88
+1013,Dotto S1013,Dar es Salaam,2022,English,51
+1013,Dotto S1013,Dar es Salaam,2022,Physics,85
+1013,Dotto S1013,Dar es Salaam,2022,Chemistry,45
+1013,Dotto S1013,Dar es Salaam,2022,Biology,86
+1014,Elizabeth S1014,Dar es Salaam,2022,Mathematics,74
+1014,Elizabeth S1014,Dar es Salaam,2022,English,59
+1014,Elizabeth S1014,Dar es Salaam,2022,Physics,68
+1014,Elizabeth S1014,Dar es Salaam,2022,Chemistry,71
+1014,Elizabeth S1014,Dar es Salaam,2022,Biology,84
+1015,Grace S1015,Dar es Salaam,2022,Mathematics,55
+1015,Grace S1015,Dar es Salaam,2022,English,78
+1015,Grace S1015,Dar es Salaam,2022,Physics,63
+1015,Grace S1015,Dar es Salaam,2022,Chemistry,67
+1015,Grace S1015,Dar es Salaam,2022,Biology,49
+1016,Amani S1016,Dar es Salaam,2022,Mathematics,59
+1016,Amani S1016,Dar es Salaam,2022,English,72
+1016,Amani S1016,Dar es Salaam,2022,Physics,97
+1016,Amani S1016,Dar es Salaam,2022,Chemistry,66
+1016,Amani S1016,Dar es Salaam,2022,Biology,84
+1017,Elizabeth S1017,Dar es Salaam,2022,Mathematics,81
+1017,Elizabeth S1017,Dar es Salaam,2022,English,55
+1017,Elizabeth S1017,Dar es Salaam,2022,Physics,63
+1017,Elizabeth S1017,Dar es Salaam,2022,Chemistry,72
+1017,Elizabeth S1017,Dar es Salaam,2022,Biology,47
+1018,Baraka S1018,Dar es Salaam,2022,Mathematics,82
+1018,Baraka S1018,Dar es Salaam,2022,English,82
+1018,Baraka S1018,Dar es Salaam,2022,Physics,74
+1018,Baraka S1018,Dar es Salaam,2022,Chemistry,71
+1018,Baraka S1018,Dar es Salaam,2022,Biology,75
+1019,Neema S1019,Dar es Salaam,2022,Mathematics,42
+1019,Neema S1019,Dar es Salaam,2022,English,70
+1019,Neema S1019,Dar es Salaam,2022,Physics,74
+1019,Neema S1019,Dar es Salaam,2022,Chemistry,65
+1019,Neema S1019,Dar es Salaam,2022,Biology,74
+1020,Hamisi S1020,Dar es Salaam,2022,Mathematics,66
+1020,Hamisi S1020,Dar es Salaam,2022,English,71
+1020,Hamisi S1020,Dar es Salaam,2022,Physics,76
+1020,Hamisi S1020,Dar es Salaam,2022,Chemistry,76
+1020,Hamisi S1020,Dar es Salaam,2022,Biology,69
+1021,Omary S1021,Dar es Salaam,2022,Mathematics,60
+1021,Omary S1021,Dar es Salaam,2022,English,52
+1021,Omary S1021,Dar es Salaam,2022,Physics,62
+1021,Omary S1021,Dar es Salaam,2022,Chemistry,66
+1021,Omary S1021,Dar es Salaam,2022,Biology,64
+1022,Kelvin S1022,Dar es Salaam,2022,Mathematics,60
+1022,Kelvin S1022,Dar es Salaam,2022,English,45
+1022,Kelvin S1022,Dar es Salaam,2022,Physics,65
+1022,Kelvin S1022,Dar es Salaam,2022,Chemistry,78
+1022,Kelvin S1022,Dar es Salaam,2022,Biology,72
+1023,Winnie S1023,Dar es Salaam,2022,Mathematics,47
+1023,Winnie S1023,Dar es Salaam,2022,English,85
+1023,Winnie S1023,Dar es Salaam,2022,Physics,73
+1023,Winnie S1023,Dar es Salaam,2022,Chemistry,70
+1023,Winnie S1023,Dar es Salaam,2022,Biology,65
+1024,Winnie S1024,Dar es Salaam,2022,Mathematics,78
+1024,Winnie S1024,Dar es Salaam,2022,English,52
+1024,Winnie S1024,Dar es Salaam,2022,Physics,77
+1024,Winnie S1024,Dar es Salaam,2022,Chemistry,67
+1024,Winnie S1024,Dar es Salaam,2022,Biology,63
+1025,Tumaini S1025,Dar es Salaam,2023,Mathematics,79
+1025,Tumaini S1025,Dar es Salaam,2023,English,70
+1025,Tumaini S1025,Dar es Salaam,2023,Physics,90
+1025,Tumaini S1025,Dar es Salaam,2023,Chemistry,50
+1025,Tumaini S1025,Dar es Salaam,2023,Biology,75
+1026,Upendo S1026,Dar es Salaam,2023,Mathematics,56
+1026,Upendo S1026,Dar es Salaam,2023,English,53
+1026,Upendo S1026,Dar es Salaam,2023,Physics,65
+1026,Upendo S1026,Dar es Salaam,2023,Chemistry,91
+1026,Upendo S1026,Dar es Salaam,2023,Biology,81
+1027,Dotto S1027,Dar es Salaam,2023,Mathematics,75
+1027,Dotto S1027,Dar es Salaam,2023,English,74
+1027,Dotto S1027,Dar es Salaam,2023,Physics,58
+1027,Dotto S1027,Dar es Salaam,2023,Chemistry,46
+1027,Dotto S1027,Dar es Salaam,2023,Biology,69
+1028,Victor S1028,Dar es Salaam,2023,Mathematics,65
+1028,Victor S1028,Dar es Salaam,2023,English,87
+1028,Victor S1028,Dar es Salaam,2023,Physics,70
+1028,Victor S1028,Dar es Salaam,2023,Chemistry,65
+1028,Victor S1028,Dar es Salaam,2023,Biology,52
+1029,Amani S1029,Dar es Salaam,2023,Mathematics,82
+1029,Amani S1029,Dar es Salaam,2023,English,59
+1029,Amani S1029,Dar es Salaam,2023,Physics,54
+1029,Amani S1029,Dar es Salaam,2023,Chemistry,79
+1029,Amani S1029,Dar es Salaam,2023,Biology,46
+1030,Baraka S1030,Dar es Salaam,2023,Mathematics,92
+1030,Baraka S1030,Dar es Salaam,2023,English,66
+1030,Baraka S1030,Dar es Salaam,2023,Physics,76
+1030,Baraka S1030,Dar es Salaam,2023,Chemistry,57
+1030,Baraka S1030,Dar es Salaam,2023,Biology,75
+1031,Hamisi S1031,Dar es Salaam,2023,Mathematics,93
+1031,Hamisi S1031,Dar es Salaam,2023,English,68
+1031,Hamisi S1031,Dar es Salaam,2023,Physics,63
+1031,Hamisi S1031,Dar es Salaam,2023,Chemistry,61
+1031,Hamisi S1031,Dar es Salaam,2023,Biology,85
+1032,Irene S1032,Dar es Salaam,2023,Mathematics,49
+1032,Irene S1032,Dar es Salaam,2023,English,67
+1032,Irene S1032,Dar es Salaam,2023,Physics,70
+1032,Irene S1032,Dar es Salaam,2023,Chemistry,75
+1032,Irene S1032,Dar es Salaam,2023,Biology,65
+1033,Hamisi S1033,Dar es Salaam,2023,Mathematics,59
+1033,Hamisi S1033,Dar es Salaam,2023,English,56
+1033,Hamisi S1033,Dar es Salaam,2023,Physics,66
+1033,Hamisi S1033,Dar es Salaam,2023,Chemistry,57
+1033,Hamisi S1033,Dar es Salaam,2023,Biology,75
+1034,Amani S1034,Dar es Salaam,2023,Mathematics,56
+1034,Amani S1034,Dar es Salaam,2023,English,85
+1034,Amani S1034,Dar es Salaam,2023,Physics,94
+1034,Amani S1034,Dar es Salaam,2023,Chemistry,47
+1034,Amani S1034,Dar es Salaam,2023,Biology,74
+1035,Upendo S1035,Dar es Salaam,2023,Mathematics,91
+1035,Upendo S1035,Dar es Salaam,2023,English,83
+1035,Upendo S1035,Dar es Salaam,2023,Physics,51
+1035,Upendo S1035,Dar es Salaam,2023,Chemistry,76
+1035,Upendo S1035,Dar es Salaam,2023,Biology,88
+1036,Grace S1036,Dar es Salaam,2023,Mathematics,60
+1036,Grace S1036,Dar es Salaam,2023,English,59
+1036,Grace S1036,Dar es Salaam,2023,Physics,57
+1036,Grace S1036,Dar es Salaam,2023,Chemistry,69
+1036,Grace S1036,Dar es Salaam,2023,Biology,57
+1037,Neema S1037,Dar es Salaam,2023,Mathematics,62
+1037,Neema S1037,Dar es Salaam,2023,English,51
+1037,Neema S1037,Dar es Salaam,2023,Physics,55
+1037,Neema S1037,Dar es Salaam,2023,Chemistry,79
+1037,Neema S1037,Dar es Salaam,2023,Biology,50
+1038,John S1038,Dar es Salaam,2023,Mathematics,79
+1038,John S1038,Dar es Salaam,2023,English,52
+1038,John S1038,Dar es Salaam,2023,Physics,59
+1038,John S1038,Dar es Salaam,2023,Chemistry,71
+1038,John S1038,Dar es Salaam,2023,Biology,84
+1039,Zainab S1039,Dar es Salaam,2023,Mathematics,78
+1039,Zainab S1039,Dar es Salaam,2023,English,76
+1039,Zainab S1039,Dar es Salaam,2023,Physics,75
+1039,Zainab S1039,Dar es Salaam,2023,Chemistry,51
+1039,Zainab S1039,Dar es Salaam,2023,Biology,67
+1040,Hamisi S1040,Dar es Salaam,2023,Mathematics,74
+1040,Hamisi S1040,Dar es Salaam,2023,English,70
+1040,Hamisi S1040,Dar es Salaam,2023,Physics,58
+1040,Hamisi S1040,Dar es Salaam,2023,Chemistry,66
+1040,Hamisi S1040,Dar es Salaam,2023,Biology,56
+1041,Elizabeth S1041,Dar es Salaam,2023,Mathematics,89
+1041,Elizabeth S1041,Dar es Salaam,2023,English,71
+1041,Elizabeth S1041,Dar es Salaam,2023,Physics,58
+1041,Elizabeth S1041,Dar es Salaam,2023,Chemistry,75
+1041,Elizabeth S1041,Dar es Salaam,2023,Biology,77
+1042,Dotto S1042,Dar es Salaam,2023,Mathematics,70
+1042,Dotto S1042,Dar es Salaam,2023,English,53
+1042,Dotto S1042,Dar es Salaam,2023,Physics,38
+1042,Dotto S1042,Dar es Salaam,2023,Chemistry,84
+1042,Dotto S1042,Dar es Salaam,2023,Biology,59
+1043,Rehema S1043,Dar es Salaam,2023,Mathematics,78
+1043,Rehema S1043,Dar es Salaam,2023,English,58
+1043,Rehema S1043,Dar es Salaam,2023,Physics,52
+1043,Rehema S1043,Dar es Salaam,2023,Chemistry,77
+1043,Rehema S1043,Dar es Salaam,2023,Biology,69
+1044,Hamisi S1044,Dar es Salaam,2023,Mathematics,53
+1044,Hamisi S1044,Dar es Salaam,2023,English,62
+1044,Hamisi S1044,Dar es Salaam,2023,Physics,76
+1044,Hamisi S1044,Dar es Salaam,2023,Chemistry,74
+1044,Hamisi S1044,Dar es Salaam,2023,Biology,76
+1045,Yusuf S1045,Dar es Salaam,2023,Mathematics,56
+1045,Yusuf S1045,Dar es Salaam,2023,English,73
+1045,Yusuf S1045,Dar es Salaam,2023,Physics,70
+1045,Yusuf S1045,Dar es Salaam,2023,Chemistry,60
+1045,Yusuf S1045,Dar es Salaam,2023,Biology,96
+1046,Tumaini S1046,Dar es Salaam,2023,Mathematics,70
+1046,Tumaini S1046,Dar es Salaam,2023,English,52
+1046,Tumaini S1046,Dar es Salaam,2023,Physics,87
+1046,Tumaini S1046,Dar es Salaam,2023,Chemistry,54
+1046,Tumaini S1046,Dar es Salaam,2023,Biology,78
+1047,Upendo S1047,Dar es Salaam,2023,Mathematics,62
+1047,Upendo S1047,Dar es Salaam,2023,English,69
+1047,Upendo S1047,Dar es Salaam,2023,Physics,57
+1047,Upendo S1047,Dar es Salaam,2023,Chemistry,51
+1047,Upendo S1047,Dar es Salaam,2023,Biology,100
+1048,Salum S1048,Dar es Salaam,2023,Mathematics,48
+1048,Salum S1048,Dar es Salaam,2023,English,65
+1048,Salum S1048,Dar es Salaam,2023,Physics,68
+1048,Salum S1048,Dar es Salaam,2023,Chemistry,61
+1048,Salum S1048,Dar es Salaam,2023,Biology,68
+1049,Grace S1049,Dar es Salaam,2024,Mathematics,55
+1049,Grace S1049,Dar es Salaam,2024,English,87
+1049,Grace S1049,Dar es Salaam,2024,Physics,52
+1049,Grace S1049,Dar es Salaam,2024,Chemistry,79
+1049,Grace S1049,Dar es Salaam,2024,Biology,98
+1050,Hamisi S1050,Dar es Salaam,2024,Mathematics,79
+1050,Hamisi S1050,Dar es Salaam,2024,English,59
+1050,Hamisi S1050,Dar es Salaam,2024,Physics,55
+1050,Hamisi S1050,Dar es Salaam,2024,Chemistry,72
+1050,Hamisi S1050,Dar es Salaam,2024,Biology,66
+1051,Winnie S1051,Dar es Salaam,2024,Mathematics,78
+1051,Winnie S1051,Dar es Salaam,2024,English,62
+1051,Winnie S1051,Dar es Salaam,2024,Physics,43
+1051,Winnie S1051,Dar es Salaam,2024,Chemistry,51
+1051,Winnie S1051,Dar es Salaam,2024,Biology,76
+1052,Tumaini S1052,Dar es Salaam,2024,Mathematics,73
+1052,Tumaini S1052,Dar es Salaam,2024,English,53
+1052,Tumaini S1052,Dar es Salaam,2024,Physics,40
+1052,Tumaini S1052,Dar es Salaam,2024,Chemistry,86
+1052,Tumaini S1052,Dar es Salaam,2024,Biology,77
+1053,Dotto S1053,Dar es Salaam,2024,Mathematics,64
+1053,Dotto S1053,Dar es Salaam,2024,English,88
+1053,Dotto S1053,Dar es Salaam,2024,Physics,67
+1053,Dotto S1053,Dar es Salaam,2024,Chemistry,67
+1053,Dotto S1053,Dar es Salaam,2024,Biology,85
+1054,Amani S1054,Dar es Salaam,2024,Mathematics,78
+1054,Amani S1054,Dar es Salaam,2024,English,95
+1054,Amani S1054,Dar es Salaam,2024,Physics,88
+1054,Amani S1054,Dar es Salaam,2024,Chemistry,67
+1054,Amani S1054,Dar es Salaam,2024,Biology,57
+1055,Victor S1055,Dar es Salaam,2024,Mathematics,71
+1055,Victor S1055,Dar es Salaam,2024,English,54
+1055,Victor S1055,Dar es Salaam,2024,Physics,66
+1055,Victor S1055,Dar es Salaam,2024,Chemistry,61
+1055,Victor S1055,Dar es Salaam,2024,Biology,92
+1056,Hamisi S1056,Dar es Salaam,2024,Mathematics,83
+1056,Hamisi S1056,Dar es Salaam,2024,English,63
+1056,Hamisi S1056,Dar es Salaam,2024,Physics,58
+1056,Hamisi S1056,Dar es Salaam,2024,Chemistry,55
+1056,Hamisi S1056,Dar es Salaam,2024,Biology,67
+1057,Irene S1057,Dar es Salaam,2024,Mathematics,68
+1057,Irene S1057,Dar es Salaam,2024,English,55
+1057,Irene S1057,Dar es Salaam,2024,Physics,88
+1057,Irene S1057,Dar es Salaam,2024,Chemistry,78
+1057,Irene S1057,Dar es Salaam,2024,Biology,64
+1058,Prisca S1058,Dar es Salaam,2024,Mathematics,51
+1058,Prisca S1058,Dar es Salaam,2024,English,61
+1058,Prisca S1058,Dar es Salaam,2024,Physics,78
+1058,Prisca S1058,Dar es Salaam,2024,Chemistry,59
+1058,Prisca S1058,Dar es Salaam,2024,Biology,78
+1059,Zainab S1059,Dar es Salaam,2024,Mathematics,61
+1059,Zainab S1059,Dar es Salaam,2024,English,77
+1059,Zainab S1059,Dar es Salaam,2024,Physics,64
+1059,Zainab S1059,Dar es Salaam,2024,Chemistry,60
+1059,Zainab S1059,Dar es Salaam,2024,Biology,69
+1060,Zainab S1060,Dar es Salaam,2024,Mathematics,61
+1060,Zainab S1060,Dar es Salaam,2024,English,84
+1060,Zainab S1060,Dar es Salaam,2024,Physics,64
+1060,Zainab S1060,Dar es Salaam,2024,Chemistry,68
+1060,Zainab S1060,Dar es Salaam,2024,Biology,74
+1061,Amani S1061,Dar es Salaam,2024,Mathematics,72
+1061,Amani S1061,Dar es Salaam,2024,English,67
+1061,Amani S1061,Dar es Salaam,2024,Physics,82
+1061,Amani S1061,Dar es Salaam,2024,Chemistry,64
+1061,Amani S1061,Dar es Salaam,2024,Biology,75
+1062,Prisca S1062,Dar es Salaam,2024,Mathematics,68
+1062,Prisca S1062,Dar es Salaam,2024,English,93
+1062,Prisca S1062,Dar es Salaam,2024,Physics,77
+1062,Prisca S1062,Dar es Salaam,2024,Chemistry,67
+1062,Prisca S1062,Dar es Salaam,2024,Biology,72
+1063,Baraka S1063,Dar es Salaam,2024,Mathematics,76
+1063,Baraka S1063,Dar es Salaam,2024,English,38
+1063,Baraka S1063,Dar es Salaam,2024,Physics,54
+1063,Baraka S1063,Dar es Salaam,2024,Chemistry,64
+1063,Baraka S1063,Dar es Salaam,2024,Biology,71
+1064,Omary S1064,Dar es Salaam,2024,Mathematics,55
+1064,Omary S1064,Dar es Salaam,2024,English,55
+1064,Omary S1064,Dar es Salaam,2024,Physics,71
+1064,Omary S1064,Dar es Salaam,2024,Chemistry,88
+1064,Omary S1064,Dar es Salaam,2024,Biology,81
+1065,Irene S1065,Dar es Salaam,2024,Mathematics,73
+1065,Irene S1065,Dar es Salaam,2024,English,71
+1065,Irene S1065,Dar es Salaam,2024,Physics,49
+1065,Irene S1065,Dar es Salaam,2024,Chemistry,71
+1065,Irene S1065,Dar es Salaam,2024,Biology,61
+1066,Omary S1066,Dar es Salaam,2024,Mathematics,47
+1066,Omary S1066,Dar es Salaam,2024,English,64
+1066,Omary S1066,Dar es Salaam,2024,Physics,90
+1066,Omary S1066,Dar es Salaam,2024,Chemistry,72
+1066,Omary S1066,Dar es Salaam,2024,Biology,71
+1067,Elizabeth S1067,Dar es Salaam,2024,Mathematics,73
+1067,Elizabeth S1067,Dar es Salaam,2024,English,61
+1067,Elizabeth S1067,Dar es Salaam,2024,Physics,66
+1067,Elizabeth S1067,Dar es Salaam,2024,Chemistry,51
+1067,Elizabeth S1067,Dar es Salaam,2024,Biology,58
+1068,Irene S1068,Dar es Salaam,2024,Mathematics,51
+1068,Irene S1068,Dar es Salaam,2024,English,71
+1068,Irene S1068,Dar es Salaam,2024,Physics,69
+1068,Irene S1068,Dar es Salaam,2024,Chemistry,67
+1068,Irene S1068,Dar es Salaam,2024,Biology,77
+1069,Tumaini S1069,Dar es Salaam,2024,Mathematics,89
+1069,Tumaini S1069,Dar es Salaam,2024,English,73
+1069,Tumaini S1069,Dar es Salaam,2024,Physics,69
+1069,Tumaini S1069,Dar es Salaam,2024,Chemistry,61
+1069,Tumaini S1069,Dar es Salaam,2024,Biology,60
+1070,Neema S1070,Dar es Salaam,2024,Mathematics,100
+1070,Neema S1070,Dar es Salaam,2024,English,77
+1070,Neema S1070,Dar es Salaam,2024,Physics,73
+1070,Neema S1070,Dar es Salaam,2024,Chemistry,76
+1070,Neema S1070,Dar es Salaam,2024,Biology,61
+1071,John S1071,Dar es Salaam,2024,Mathematics,53
+1071,John S1071,Dar es Salaam,2024,English,76
+1071,John S1071,Dar es Salaam,2024,Physics,65
+1071,John S1071,Dar es Salaam,2024,Chemistry,76
+1071,John S1071,Dar es Salaam,2024,Biology,71
+1072,Salum S1072,Dar es Salaam,2024,Mathematics,67
+1072,Salum S1072,Dar es Salaam,2024,English,48
+1072,Salum S1072,Dar es Salaam,2024,Physics,66
+1072,Salum S1072,Dar es Salaam,2024,Chemistry,77
+1072,Salum S1072,Dar es Salaam,2024,Biology,68
+1073,John S1073,Dodoma,2022,Mathematics,55
+1073,John S1073,Dodoma,2022,English,55
+1073,John S1073,Dodoma,2022,Physics,59
+1073,John S1073,Dodoma,2022,Chemistry,67
+1073,John S1073,Dodoma,2022,Biology,95
+1074,Dotto S1074,Dodoma,2022,Mathematics,82
+1074,Dotto S1074,Dodoma,2022,English,63
+1074,Dotto S1074,Dodoma,2022,Physics,45
+1074,Dotto S1074,Dodoma,2022,Chemistry,54
+1074,Dotto S1074,Dodoma,2022,Biology,88
+1075,Hamisi S1075,Dodoma,2022,Mathematics,63
+1075,Hamisi S1075,Dodoma,2022,English,66
+1075,Hamisi S1075,Dodoma,2022,Physics,63
+1075,Hamisi S1075,Dodoma,2022,Chemistry,64
+1075,Hamisi S1075,Dodoma,2022,Biology,48
+1076,Irene S1076,Dodoma,2022,Mathematics,81
+1076,Irene S1076,Dodoma,2022,English,51
+1076,Irene S1076,Dodoma,2022,Physics,80
+1076,Irene S1076,Dodoma,2022,Chemistry,68
+1076,Irene S1076,Dodoma,2022,Biology,71
+1077,Salum S1077,Dodoma,2022,Mathematics,37
+1077,Salum S1077,Dodoma,2022,English,84
+1077,Salum S1077,Dodoma,2022,Physics,63
+1077,Salum S1077,Dodoma,2022,Chemistry,75
+1077,Salum S1077,Dodoma,2022,Biology,51
+1078,Mariam S1078,Dodoma,2022,Mathematics,72
+1078,Mariam S1078,Dodoma,2022,English,76
+1078,Mariam S1078,Dodoma,2022,Physics,22
+1078,Mariam S1078,Dodoma,2022,Chemistry,36
+1078,Mariam S1078,Dodoma,2022,Biology,61
+1079,Omary S1079,Dodoma,2022,Mathematics,57
+1079,Omary S1079,Dodoma,2022,English,54
+1079,Omary S1079,Dodoma,2022,Physics,66
+1079,Omary S1079,Dodoma,2022,Chemistry,59
+1079,Omary S1079,Dodoma,2022,Biology,46
+1080,Chausiku S1080,Dodoma,2022,Mathematics,51
+1080,Chausiku S1080,Dodoma,2022,English,70
+1080,Chausiku S1080,Dodoma,2022,Physics,46
+1080,Chausiku S1080,Dodoma,2022,Chemistry,61
+1080,Chausiku S1080,Dodoma,2022,Biology,26
+1081,Chausiku S1081,Dodoma,2022,Mathematics,51
+1081,Chausiku S1081,Dodoma,2022,English,45
+1081,Chausiku S1081,Dodoma,2022,Physics,78
+1081,Chausiku S1081,Dodoma,2022,Chemistry,56
+1081,Chausiku S1081,Dodoma,2022,Biology,61
+1082,Amani S1082,Dodoma,2022,Mathematics,65
+1082,Amani S1082,Dodoma,2022,English,57
+1082,Amani S1082,Dodoma,2022,Physics,68
+1082,Amani S1082,Dodoma,2022,Chemistry,36
+1082,Amani S1082,Dodoma,2022,Biology,45
+1083,Chausiku S1083,Dodoma,2022,Mathematics,43
+1083,Chausiku S1083,Dodoma,2022,English,72
+1083,Chausiku S1083,Dodoma,2022,Physics,61
+1083,Chausiku S1083,Dodoma,2022,Chemistry,78
+1083,Chausiku S1083,Dodoma,2022,Biology,72
+1084,John S1084,Dodoma,2022,Mathematics,50
+1084,John S1084,Dodoma,2022,English,43
+1084,John S1084,Dodoma,2022,Physics,63
+1084,John S1084,Dodoma,2022,Chemistry,50
+1084,John S1084,Dodoma,2022,Biology,66
+1085,Grace S1085,Dodoma,2022,Mathematics,66
+1085,Grace S1085,Dodoma,2022,English,52
+1085,Grace S1085,Dodoma,2022,Physics,51
+1085,Grace S1085,Dodoma,2022,Chemistry,75
+1085,Grace S1085,Dodoma,2022,Biology,59
+1086,Winnie S1086,Dodoma,2022,Mathematics,61
+1086,Winnie S1086,Dodoma,2022,English,81
+1086,Winnie S1086,Dodoma,2022,Physics,48
+1086,Winnie S1086,Dodoma,2022,Chemistry,63
+1086,Winnie S1086,Dodoma,2022,Biology,50
+1087,Hamisi S1087,Dodoma,2022,Mathematics,44
+1087,Hamisi S1087,Dodoma,2022,English,45
+1087,Hamisi S1087,Dodoma,2022,Physics,70
+1087,Hamisi S1087,Dodoma,2022,Chemistry,44
+1087,Hamisi S1087,Dodoma,2022,Biology,54
+1088,Tumaini S1088,Dodoma,2022,Mathematics,71
+1088,Tumaini S1088,Dodoma,2022,English,66
+1088,Tumaini S1088,Dodoma,2022,Physics,51
+1088,Tumaini S1088,Dodoma,2022,Chemistry,62
+1088,Tumaini S1088,Dodoma,2022,Biology,29
+1089,Rehema S1089,Dodoma,2022,Mathematics,67
+1089,Rehema S1089,Dodoma,2022,English,51
+1089,Rehema S1089,Dodoma,2022,Physics,66
+1089,Rehema S1089,Dodoma,2022,Chemistry,35
+1089,Rehema S1089,Dodoma,2022,Biology,62
+1090,Hamisi S1090,Dodoma,2022,Mathematics,59
+1090,Hamisi S1090,Dodoma,2022,English,96
+1090,Hamisi S1090,Dodoma,2022,Physics,56
+1090,Hamisi S1090,Dodoma,2022,Chemistry,58
+1090,Hamisi S1090,Dodoma,2022,Biology,56
+1091,Omary S1091,Dodoma,2022,Mathematics,57
+1091,Omary S1091,Dodoma,2022,English,46
+1091,Omary S1091,Dodoma,2022,Physics,45
+1091,Omary S1091,Dodoma,2022,Chemistry,73
+1091,Omary S1091,Dodoma,2022,Biology,71
+1092,Upendo S1092,Dodoma,2022,Mathematics,51
+1092,Upendo S1092,Dodoma,2022,English,68
+1092,Upendo S1092,Dodoma,2022,Physics,29
+1092,Upendo S1092,Dodoma,2022,Chemistry,79
+1092,Upendo S1092,Dodoma,2022,Biology,82
+1093,Prisca S1093,Dodoma,2022,Mathematics,57
+1093,Prisca S1093,Dodoma,2022,English,74
+1093,Prisca S1093,Dodoma,2022,Physics,78
+1093,Prisca S1093,Dodoma,2022,Chemistry,52
+1093,Prisca S1093,Dodoma,2022,Biology,54
+1094,Victor S1094,Dodoma,2022,Mathematics,26
+1094,Victor S1094,Dodoma,2022,English,29
+1094,Victor S1094,Dodoma,2022,Physics,73
+1094,Victor S1094,Dodoma,2022,Chemistry,25
+1094,Victor S1094,Dodoma,2022,Biology,73
+1095,Dotto S1095,Dodoma,2022,Mathematics,42
+1095,Dotto S1095,Dodoma,2022,English,81
+1095,Dotto S1095,Dodoma,2022,Physics,49
+1095,Dotto S1095,Dodoma,2022,Chemistry,98
+1095,Dotto S1095,Dodoma,2022,Biology,69
+1096,Victor S1096,Dodoma,2022,Mathematics,64
+1096,Victor S1096,Dodoma,2022,English,57
+1096,Victor S1096,Dodoma,2022,Physics,45
+1096,Victor S1096,Dodoma,2022,Chemistry,80
+1096,Victor S1096,Dodoma,2022,Biology,66
+1097,Grace S1097,Dodoma,2023,Mathematics,63
+1097,Grace S1097,Dodoma,2023,English,84
+1097,Grace S1097,Dodoma,2023,Physics,52
+1097,Grace S1097,Dodoma,2023,Chemistry,100
+1097,Grace S1097,Dodoma,2023,Biology,60
+1098,Amani S1098,Dodoma,2023,Mathematics,49
+1098,Amani S1098,Dodoma,2023,English,61
+1098,Amani S1098,Dodoma,2023,Physics,36
+1098,Amani S1098,Dodoma,2023,Chemistry,66
+1098,Amani S1098,Dodoma,2023,Biology,65
+1099,Chausiku S1099,Dodoma,2023,Mathematics,61
+1099,Chausiku S1099,Dodoma,2023,English,38
+1099,Chausiku S1099,Dodoma,2023,Physics,62
+1099,Chausiku S1099,Dodoma,2023,Chemistry,59
+1099,Chausiku S1099,Dodoma,2023,Biology,46
+1100,Amani S1100,Dodoma,2023,Mathematics,52
+1100,Amani S1100,Dodoma,2023,English,40
+1100,Amani S1100,Dodoma,2023,Physics,70
+1100,Amani S1100,Dodoma,2023,Chemistry,66
+1100,Amani S1100,Dodoma,2023,Biology,61
+1101,Chausiku S1101,Dodoma,2023,Mathematics,42
+1101,Chausiku S1101,Dodoma,2023,English,47
+1101,Chausiku S1101,Dodoma,2023,Physics,47
+1101,Chausiku S1101,Dodoma,2023,Chemistry,51
+1101,Chausiku S1101,Dodoma,2023,Biology,59
+1102,Victor S1102,Dodoma,2023,Mathematics,53
+1102,Victor S1102,Dodoma,2023,English,58
+1102,Victor S1102,Dodoma,2023,Physics,48
+1102,Victor S1102,Dodoma,2023,Chemistry,48
+1102,Victor S1102,Dodoma,2023,Biology,70
+1103,Dotto S1103,Dodoma,2023,Mathematics,52
+1103,Dotto S1103,Dodoma,2023,English,72
+1103,Dotto S1103,Dodoma,2023,Physics,53
+1103,Dotto S1103,Dodoma,2023,Chemistry,56
+1103,Dotto S1103,Dodoma,2023,Biology,57
+1104,Elizabeth S1104,Dodoma,2023,Mathematics,45
+1104,Elizabeth S1104,Dodoma,2023,English,47
+1104,Elizabeth S1104,Dodoma,2023,Physics,50
+1104,Elizabeth S1104,Dodoma,2023,Chemistry,45
+1104,Elizabeth S1104,Dodoma,2023,Biology,41
+1105,Zainab S1105,Dodoma,2023,Mathematics,52
+1105,Zainab S1105,Dodoma,2023,English,67
+1105,Zainab S1105,Dodoma,2023,Physics,67
+1105,Zainab S1105,Dodoma,2023,Chemistry,74
+1105,Zainab S1105,Dodoma,2023,Biology,50
+1106,Irene S1106,Dodoma,2023,Mathematics,56
+1106,Irene S1106,Dodoma,2023,English,82
+1106,Irene S1106,Dodoma,2023,Physics,29
+1106,Irene S1106,Dodoma,2023,Chemistry,57
+1106,Irene S1106,Dodoma,2023,Biology,59
+1107,Yusuf S1107,Dodoma,2023,Mathematics,65
+1107,Yusuf S1107,Dodoma,2023,English,76
+1107,Yusuf S1107,Dodoma,2023,Physics,85
+1107,Yusuf S1107,Dodoma,2023,Chemistry,60
+1107,Yusuf S1107,Dodoma,2023,Biology,70
+1108,Amani S1108,Dodoma,2023,Mathematics,70
+1108,Amani S1108,Dodoma,2023,English,47
+1108,Amani S1108,Dodoma,2023,Physics,66
+1108,Amani S1108,Dodoma,2023,Chemistry,41
+1108,Amani S1108,Dodoma,2023,Biology,89
+1109,Baraka S1109,Dodoma,2023,Mathematics,55
+1109,Baraka S1109,Dodoma,2023,English,50
+1109,Baraka S1109,Dodoma,2023,Physics,41
+1109,Baraka S1109,Dodoma,2023,Chemistry,66
+1109,Baraka S1109,Dodoma,2023,Biology,43
+1110,Dotto S1110,Dodoma,2023,Mathematics,55
+1110,Dotto S1110,Dodoma,2023,English,39
+1110,Dotto S1110,Dodoma,2023,Physics,56
+1110,Dotto S1110,Dodoma,2023,Chemistry,56
+1110,Dotto S1110,Dodoma,2023,Biology,55
+1111,Grace S1111,Dodoma,2023,Mathematics,61
+1111,Grace S1111,Dodoma,2023,English,43
+1111,Grace S1111,Dodoma,2023,Physics,51
+1111,Grace S1111,Dodoma,2023,Chemistry,61
+1111,Grace S1111,Dodoma,2023,Biology,36
+1112,Lightness S1112,Dodoma,2023,Mathematics,47
+1112,Lightness S1112,Dodoma,2023,English,64
+1112,Lightness S1112,Dodoma,2023,Physics,62
+1112,Lightness S1112,Dodoma,2023,Chemistry,45
+1112,Lightness S1112,Dodoma,2023,Biology,51
+1113,Neema S1113,Dodoma,2023,Mathematics,26
+1113,Neema S1113,Dodoma,2023,English,76
+1113,Neema S1113,Dodoma,2023,Physics,41
+1113,Neema S1113,Dodoma,2023,Chemistry,62
+1113,Neema S1113,Dodoma,2023,Biology,69
+1114,Mariam S1114,Dodoma,2023,Mathematics,67
+1114,Mariam S1114,Dodoma,2023,English,52
+1114,Mariam S1114,Dodoma,2023,Physics,69
+1114,Mariam S1114,Dodoma,2023,Chemistry,48
+1114,Mariam S1114,Dodoma,2023,Biology,58
+1115,Lightness S1115,Dodoma,2023,Mathematics,76
+1115,Lightness S1115,Dodoma,2023,English,50
+1115,Lightness S1115,Dodoma,2023,Physics,54
+1115,Lightness S1115,Dodoma,2023,Chemistry,64
+1115,Lightness S1115,Dodoma,2023,Biology,91
+1116,Victor S1116,Dodoma,2023,Mathematics,74
+1116,Victor S1116,Dodoma,2023,English,61
+1116,Victor S1116,Dodoma,2023,Physics,46
+1116,Victor S1116,Dodoma,2023,Chemistry,46
+1116,Victor S1116,Dodoma,2023,Biology,46
+1117,Victor S1117,Dodoma,2023,Mathematics,42
+1117,Victor S1117,Dodoma,2023,English,65
+1117,Victor S1117,Dodoma,2023,Physics,49
+1117,Victor S1117,Dodoma,2023,Chemistry,48
+1117,Victor S1117,Dodoma,2023,Biology,71
+1118,John S1118,Dodoma,2023,Mathematics,58
+1118,John S1118,Dodoma,2023,English,73
+1118,John S1118,Dodoma,2023,Physics,43
+1118,John S1118,Dodoma,2023,Chemistry,34
+1118,John S1118,Dodoma,2023,Biology,53
+1119,Omary S1119,Dodoma,2023,Mathematics,53
+1119,Omary S1119,Dodoma,2023,English,55
+1119,Omary S1119,Dodoma,2023,Physics,73
+1119,Omary S1119,Dodoma,2023,Chemistry,56
+1119,Omary S1119,Dodoma,2023,Biology,67
+1120,Victor S1120,Dodoma,2023,Mathematics,55
+1120,Victor S1120,Dodoma,2023,English,42
+1120,Victor S1120,Dodoma,2023,Physics,64
+1120,Victor S1120,Dodoma,2023,Chemistry,47
+1120,Victor S1120,Dodoma,2023,Biology,65
+1121,Kelvin S1121,Dodoma,2024,Mathematics,78
+1121,Kelvin S1121,Dodoma,2024,English,63
+1121,Kelvin S1121,Dodoma,2024,Physics,44
+1121,Kelvin S1121,Dodoma,2024,Chemistry,51
+1121,Kelvin S1121,Dodoma,2024,Biology,79
+1122,Elizabeth S1122,Dodoma,2024,Mathematics,52
+1122,Elizabeth S1122,Dodoma,2024,English,67
+1122,Elizabeth S1122,Dodoma,2024,Physics,72
+1122,Elizabeth S1122,Dodoma,2024,Chemistry,45
+1122,Elizabeth S1122,Dodoma,2024,Biology,73
+1123,John S1123,Dodoma,2024,Mathematics,51
+1123,John S1123,Dodoma,2024,English,45
+1123,John S1123,Dodoma,2024,Physics,100
+1123,John S1123,Dodoma,2024,Chemistry,46
+1123,John S1123,Dodoma,2024,Biology,47
+1124,Amani S1124,Dodoma,2024,Mathematics,42
+1124,Amani S1124,Dodoma,2024,English,63
+1124,Amani S1124,Dodoma,2024,Physics,91
+1124,Amani S1124,Dodoma,2024,Chemistry,59
+1124,Amani S1124,Dodoma,2024,Biology,65
+1125,Dotto S1125,Dodoma,2024,Mathematics,36
+1125,Dotto S1125,Dodoma,2024,English,53
+1125,Dotto S1125,Dodoma,2024,Physics,73
+1125,Dotto S1125,Dodoma,2024,Chemistry,45
+1125,Dotto S1125,Dodoma,2024,Biology,64
+1126,Upendo S1126,Dodoma,2024,Mathematics,80
+1126,Upendo S1126,Dodoma,2024,English,42
+1126,Upendo S1126,Dodoma,2024,Physics,65
+1126,Upendo S1126,Dodoma,2024,Chemistry,45
+1126,Upendo S1126,Dodoma,2024,Biology,64
+1127,Omary S1127,Dodoma,2024,Mathematics,58
+1127,Omary S1127,Dodoma,2024,English,97
+1127,Omary S1127,Dodoma,2024,Physics,68
+1127,Omary S1127,Dodoma,2024,Chemistry,78
+1127,Omary S1127,Dodoma,2024,Biology,60
+1128,Rehema S1128,Dodoma,2024,Mathematics,34
+1128,Rehema S1128,Dodoma,2024,English,72
+1128,Rehema S1128,Dodoma,2024,Physics,32
+1128,Rehema S1128,Dodoma,2024,Chemistry,38
+1128,Rehema S1128,Dodoma,2024,Biology,36
+1129,Dotto S1129,Dodoma,2024,Mathematics,53
+1129,Dotto S1129,Dodoma,2024,English,54
+1129,Dotto S1129,Dodoma,2024,Physics,39
+1129,Dotto S1129,Dodoma,2024,Chemistry,66
+1129,Dotto S1129,Dodoma,2024,Biology,77
+1130,Lightness S1130,Dodoma,2024,Mathematics,48
+1130,Lightness S1130,Dodoma,2024,English,47
+1130,Lightness S1130,Dodoma,2024,Physics,65
+1130,Lightness S1130,Dodoma,2024,Chemistry,57
+1130,Lightness S1130,Dodoma,2024,Biology,67
+1131,Yusuf S1131,Dodoma,2024,Mathematics,61
+1131,Yusuf S1131,Dodoma,2024,English,49
+1131,Yusuf S1131,Dodoma,2024,Physics,58
+1131,Yusuf S1131,Dodoma,2024,Chemistry,52
+1131,Yusuf S1131,Dodoma,2024,Biology,63
+1132,Irene S1132,Dodoma,2024,Mathematics,56
+1132,Irene S1132,Dodoma,2024,English,73
+1132,Irene S1132,Dodoma,2024,Physics,50
+1132,Irene S1132,Dodoma,2024,Chemistry,61
+1132,Irene S1132,Dodoma,2024,Biology,63
+1133,Victor S1133,Dodoma,2024,Mathematics,54
+1133,Victor S1133,Dodoma,2024,English,63
+1133,Victor S1133,Dodoma,2024,Physics,76
+1133,Victor S1133,Dodoma,2024,Chemistry,58
+1133,Victor S1133,Dodoma,2024,Biology,38
+1134,Hamisi S1134,Dodoma,2024,Mathematics,67
+1134,Hamisi S1134,Dodoma,2024,English,47
+1134,Hamisi S1134,Dodoma,2024,Physics,42
+1134,Hamisi S1134,Dodoma,2024,Chemistry,38
+1134,Hamisi S1134,Dodoma,2024,Biology,51
+1135,Amani S1135,Dodoma,2024,Mathematics,38
+1135,Amani S1135,Dodoma,2024,English,66
+1135,Amani S1135,Dodoma,2024,Physics,81
+1135,Amani S1135,Dodoma,2024,Chemistry,59
+1135,Amani S1135,Dodoma,2024,Biology,43
+1136,Zainab S1136,Dodoma,2024,Mathematics,43
+1136,Zainab S1136,Dodoma,2024,English,47
+1136,Zainab S1136,Dodoma,2024,Physics,69
+1136,Zainab S1136,Dodoma,2024,Chemistry,45
+1136,Zainab S1136,Dodoma,2024,Biology,22
+1137,Frank S1137,Dodoma,2024,Mathematics,83
+1137,Frank S1137,Dodoma,2024,English,67
+1137,Frank S1137,Dodoma,2024,Physics,65
+1137,Frank S1137,Dodoma,2024,Chemistry,57
+1137,Frank S1137,Dodoma,2024,Biology,20
+1138,Salum S1138,Dodoma,2024,Mathematics,54
+1138,Salum S1138,Dodoma,2024,English,47
+1138,Salum S1138,Dodoma,2024,Physics,52
+1138,Salum S1138,Dodoma,2024,Chemistry,48
+1138,Salum S1138,Dodoma,2024,Biology,51
+1139,Neema S1139,Dodoma,2024,Mathematics,60
+1139,Neema S1139,Dodoma,2024,English,27
+1139,Neema S1139,Dodoma,2024,Physics,45
+1139,Neema S1139,Dodoma,2024,Chemistry,62
+1139,Neema S1139,Dodoma,2024,Biology,65
+1140,Chausiku S1140,Dodoma,2024,Mathematics,36
+1140,Chausiku S1140,Dodoma,2024,English,67
+1140,Chausiku S1140,Dodoma,2024,Physics,65
+1140,Chausiku S1140,Dodoma,2024,Chemistry,52
+1140,Chausiku S1140,Dodoma,2024,Biology,74
+1141,Frank S1141,Dodoma,2024,Mathematics,57
+1141,Frank S1141,Dodoma,2024,English,64
+1141,Frank S1141,Dodoma,2024,Physics,68
+1141,Frank S1141,Dodoma,2024,Chemistry,62
+1141,Frank S1141,Dodoma,2024,Biology,79
+1142,Lightness S1142,Dodoma,2024,Mathematics,67
+1142,Lightness S1142,Dodoma,2024,English,62
+1142,Lightness S1142,Dodoma,2024,Physics,64
+1142,Lightness S1142,Dodoma,2024,Chemistry,53
+1142,Lightness S1142,Dodoma,2024,Biology,59
+1143,Victor S1143,Dodoma,2024,Mathematics,44
+1143,Victor S1143,Dodoma,2024,English,71
+1143,Victor S1143,Dodoma,2024,Physics,72
+1143,Victor S1143,Dodoma,2024,Chemistry,56
+1143,Victor S1143,Dodoma,2024,Biology,45
+1144,Victor S1144,Dodoma,2024,Mathematics,54
+1144,Victor S1144,Dodoma,2024,English,71
+1144,Victor S1144,Dodoma,2024,Physics,60
+1144,Victor S1144,Dodoma,2024,Chemistry,79
+1144,Victor S1144,Dodoma,2024,Biology,76
+1145,Grace S1145,Mwanza,2022,Mathematics,52
+1145,Grace S1145,Mwanza,2022,English,88
+1145,Grace S1145,Mwanza,2022,Physics,62
+1145,Grace S1145,Mwanza,2022,Chemistry,45
+1145,Grace S1145,Mwanza,2022,Biology,74
+1146,Kelvin S1146,Mwanza,2022,Mathematics,68
+1146,Kelvin S1146,Mwanza,2022,English,45
+1146,Kelvin S1146,Mwanza,2022,Physics,50
+1146,Kelvin S1146,Mwanza,2022,Chemistry,46
+1146,Kelvin S1146,Mwanza,2022,Biology,30
+1147,Lightness S1147,Mwanza,2022,Mathematics,62
+1147,Lightness S1147,Mwanza,2022,English,59
+1147,Lightness S1147,Mwanza,2022,Physics,76
+1147,Lightness S1147,Mwanza,2022,Chemistry,57
+1147,Lightness S1147,Mwanza,2022,Biology,38
+1148,Chausiku S1148,Mwanza,2022,Mathematics,45
+1148,Chausiku S1148,Mwanza,2022,English,51
+1148,Chausiku S1148,Mwanza,2022,Physics,38
+1148,Chausiku S1148,Mwanza,2022,Chemistry,47
+1148,Chausiku S1148,Mwanza,2022,Biology,50
+1149,Chausiku S1149,Mwanza,2022,Mathematics,49
+1149,Chausiku S1149,Mwanza,2022,English,46
+1149,Chausiku S1149,Mwanza,2022,Physics,51
+1149,Chausiku S1149,Mwanza,2022,Chemistry,51
+1149,Chausiku S1149,Mwanza,2022,Biology,59
+1150,Dotto S1150,Mwanza,2022,Mathematics,52
+1150,Dotto S1150,Mwanza,2022,English,72
+1150,Dotto S1150,Mwanza,2022,Physics,83
+1150,Dotto S1150,Mwanza,2022,Chemistry,46
+1150,Dotto S1150,Mwanza,2022,Biology,50
+1151,Grace S1151,Mwanza,2022,Mathematics,49
+1151,Grace S1151,Mwanza,2022,English,51
+1151,Grace S1151,Mwanza,2022,Physics,46
+1151,Grace S1151,Mwanza,2022,Chemistry,58
+1151,Grace S1151,Mwanza,2022,Biology,39
+1152,Upendo S1152,Mwanza,2022,Mathematics,34
+1152,Upendo S1152,Mwanza,2022,English,87
+1152,Upendo S1152,Mwanza,2022,Physics,59
+1152,Upendo S1152,Mwanza,2022,Chemistry,60
+1152,Upendo S1152,Mwanza,2022,Biology,41
+1153,Tumaini S1153,Mwanza,2022,Mathematics,43
+1153,Tumaini S1153,Mwanza,2022,English,43
+1153,Tumaini S1153,Mwanza,2022,Physics,70
+1153,Tumaini S1153,Mwanza,2022,Chemistry,53
+1153,Tumaini S1153,Mwanza,2022,Biology,55
+1154,Baraka S1154,Mwanza,2022,Mathematics,58
+1154,Baraka S1154,Mwanza,2022,English,41
+1154,Baraka S1154,Mwanza,2022,Physics,55
+1154,Baraka S1154,Mwanza,2022,Chemistry,39
+1154,Baraka S1154,Mwanza,2022,Biology,94
+1155,Mariam S1155,Mwanza,2022,Mathematics,39
+1155,Mariam S1155,Mwanza,2022,English,68
+1155,Mariam S1155,Mwanza,2022,Physics,53
+1155,Mariam S1155,Mwanza,2022,Chemistry,63
+1155,Mariam S1155,Mwanza,2022,Biology,38
+1156,Hamisi S1156,Mwanza,2022,Mathematics,72
+1156,Hamisi S1156,Mwanza,2022,English,72
+1156,Hamisi S1156,Mwanza,2022,Physics,25
+1156,Hamisi S1156,Mwanza,2022,Chemistry,79
+1156,Hamisi S1156,Mwanza,2022,Biology,97
+1157,John S1157,Mwanza,2022,Mathematics,68
+1157,John S1157,Mwanza,2022,English,63
+1157,John S1157,Mwanza,2022,Physics,49
+1157,John S1157,Mwanza,2022,Chemistry,51
+1157,John S1157,Mwanza,2022,Biology,68
+1158,John S1158,Mwanza,2022,Mathematics,37
+1158,John S1158,Mwanza,2022,English,30
+1158,John S1158,Mwanza,2022,Physics,70
+1158,John S1158,Mwanza,2022,Chemistry,47
+1158,John S1158,Mwanza,2022,Biology,67
+1159,Grace S1159,Mwanza,2022,Mathematics,50
+1159,Grace S1159,Mwanza,2022,English,69
+1159,Grace S1159,Mwanza,2022,Physics,65
+1159,Grace S1159,Mwanza,2022,Chemistry,37
+1159,Grace S1159,Mwanza,2022,Biology,64
+1160,Kelvin S1160,Mwanza,2022,Mathematics,64
+1160,Kelvin S1160,Mwanza,2022,English,66
+1160,Kelvin S1160,Mwanza,2022,Physics,70
+1160,Kelvin S1160,Mwanza,2022,Chemistry,74
+1160,Kelvin S1160,Mwanza,2022,Biology,63
+1161,Rehema S1161,Mwanza,2022,Mathematics,40
+1161,Rehema S1161,Mwanza,2022,English,42
+1161,Rehema S1161,Mwanza,2022,Physics,80
+1161,Rehema S1161,Mwanza,2022,Chemistry,96
+1161,Rehema S1161,Mwanza,2022,Biology,39
+1162,Salum S1162,Mwanza,2022,Mathematics,79
+1162,Salum S1162,Mwanza,2022,English,53
+1162,Salum S1162,Mwanza,2022,Physics,54
+1162,Salum S1162,Mwanza,2022,Chemistry,41
+1162,Salum S1162,Mwanza,2022,Biology,65
+1163,Yusuf S1163,Mwanza,2022,Mathematics,46
+1163,Yusuf S1163,Mwanza,2022,English,50
+1163,Yusuf S1163,Mwanza,2022,Physics,49
+1163,Yusuf S1163,Mwanza,2022,Chemistry,46
+1163,Yusuf S1163,Mwanza,2022,Biology,31
+1164,Mariam S1164,Mwanza,2022,Mathematics,49
+1164,Mariam S1164,Mwanza,2022,English,92
+1164,Mariam S1164,Mwanza,2022,Physics,59
+1164,Mariam S1164,Mwanza,2022,Chemistry,48
+1164,Mariam S1164,Mwanza,2022,Biology,64
+1165,Neema S1165,Mwanza,2022,Mathematics,42
+1165,Neema S1165,Mwanza,2022,English,47
+1165,Neema S1165,Mwanza,2022,Physics,52
+1165,Neema S1165,Mwanza,2022,Chemistry,38
+1165,Neema S1165,Mwanza,2022,Biology,45
+1166,Frank S1166,Mwanza,2022,Mathematics,57
+1166,Frank S1166,Mwanza,2022,English,34
+1166,Frank S1166,Mwanza,2022,Physics,51
+1166,Frank S1166,Mwanza,2022,Chemistry,60
+1166,Frank S1166,Mwanza,2022,Biology,44
+1167,Hamisi S1167,Mwanza,2022,Mathematics,43
+1167,Hamisi S1167,Mwanza,2022,English,93
+1167,Hamisi S1167,Mwanza,2022,Physics,51
+1167,Hamisi S1167,Mwanza,2022,Chemistry,33
+1167,Hamisi S1167,Mwanza,2022,Biology,22
+1168,Zainab S1168,Mwanza,2022,Mathematics,40
+1168,Zainab S1168,Mwanza,2022,English,45
+1168,Zainab S1168,Mwanza,2022,Physics,46
+1168,Zainab S1168,Mwanza,2022,Chemistry,84
+1168,Zainab S1168,Mwanza,2022,Biology,46
+1169,John S1169,Mwanza,2023,Mathematics,89
+1169,John S1169,Mwanza,2023,English,72
+1169,John S1169,Mwanza,2023,Physics,63
+1169,John S1169,Mwanza,2023,Chemistry,81
+1169,John S1169,Mwanza,2023,Biology,55
+1170,Zainab S1170,Mwanza,2023,Mathematics,63
+1170,Zainab S1170,Mwanza,2023,English,44
+1170,Zainab S1170,Mwanza,2023,Physics,40
+1170,Zainab S1170,Mwanza,2023,Chemistry,31
+1170,Zainab S1170,Mwanza,2023,Biology,64
+1171,Elizabeth S1171,Mwanza,2023,Mathematics,18
+1171,Elizabeth S1171,Mwanza,2023,English,44
+1171,Elizabeth S1171,Mwanza,2023,Physics,71
+1171,Elizabeth S1171,Mwanza,2023,Chemistry,41
+1171,Elizabeth S1171,Mwanza,2023,Biology,49
+1172,Chausiku S1172,Mwanza,2023,Mathematics,76
+1172,Chausiku S1172,Mwanza,2023,English,51
+1172,Chausiku S1172,Mwanza,2023,Physics,22
+1172,Chausiku S1172,Mwanza,2023,Chemistry,33
+1172,Chausiku S1172,Mwanza,2023,Biology,73
+1173,Baraka S1173,Mwanza,2023,Mathematics,45
+1173,Baraka S1173,Mwanza,2023,English,69
+1173,Baraka S1173,Mwanza,2023,Physics,86
+1173,Baraka S1173,Mwanza,2023,Chemistry,37
+1173,Baraka S1173,Mwanza,2023,Biology,89
+1174,John S1174,Mwanza,2023,Mathematics,81
+1174,John S1174,Mwanza,2023,English,25
+1174,John S1174,Mwanza,2023,Physics,47
+1174,John S1174,Mwanza,2023,Chemistry,51
+1174,John S1174,Mwanza,2023,Biology,81
+1175,Zainab S1175,Mwanza,2023,Mathematics,54
+1175,Zainab S1175,Mwanza,2023,English,67
+1175,Zainab S1175,Mwanza,2023,Physics,34
+1175,Zainab S1175,Mwanza,2023,Chemistry,42
+1175,Zainab S1175,Mwanza,2023,Biology,80
+1176,Rehema S1176,Mwanza,2023,Mathematics,37
+1176,Rehema S1176,Mwanza,2023,English,89
+1176,Rehema S1176,Mwanza,2023,Physics,79
+1176,Rehema S1176,Mwanza,2023,Chemistry,73
+1176,Rehema S1176,Mwanza,2023,Biology,55
+1177,Irene S1177,Mwanza,2023,Mathematics,51
+1177,Irene S1177,Mwanza,2023,English,74
+1177,Irene S1177,Mwanza,2023,Physics,54
+1177,Irene S1177,Mwanza,2023,Chemistry,47
+1177,Irene S1177,Mwanza,2023,Biology,39
+1178,Yusuf S1178,Mwanza,2023,Mathematics,67
+1178,Yusuf S1178,Mwanza,2023,English,34
+1178,Yusuf S1178,Mwanza,2023,Physics,27
+1178,Yusuf S1178,Mwanza,2023,Chemistry,69
+1178,Yusuf S1178,Mwanza,2023,Biology,50
+1179,Upendo S1179,Mwanza,2023,Mathematics,44
+1179,Upendo S1179,Mwanza,2023,English,25
+1179,Upendo S1179,Mwanza,2023,Physics,69
+1179,Upendo S1179,Mwanza,2023,Chemistry,34
+1179,Upendo S1179,Mwanza,2023,Biology,60
+1180,Rehema S1180,Mwanza,2023,Mathematics,39
+1180,Rehema S1180,Mwanza,2023,English,47
+1180,Rehema S1180,Mwanza,2023,Physics,53
+1180,Rehema S1180,Mwanza,2023,Chemistry,47
+1180,Rehema S1180,Mwanza,2023,Biology,50
+1181,Rehema S1181,Mwanza,2023,Mathematics,44
+1181,Rehema S1181,Mwanza,2023,English,33
+1181,Rehema S1181,Mwanza,2023,Physics,53
+1181,Rehema S1181,Mwanza,2023,Chemistry,54
+1181,Rehema S1181,Mwanza,2023,Biology,37
+1182,Winnie S1182,Mwanza,2023,Mathematics,50
+1182,Winnie S1182,Mwanza,2023,English,35
+1182,Winnie S1182,Mwanza,2023,Physics,74
+1182,Winnie S1182,Mwanza,2023,Chemistry,69
+1182,Winnie S1182,Mwanza,2023,Biology,55
+1183,Baraka S1183,Mwanza,2023,Mathematics,90
+1183,Baraka S1183,Mwanza,2023,English,66
+1183,Baraka S1183,Mwanza,2023,Physics,57
+1183,Baraka S1183,Mwanza,2023,Chemistry,33
+1183,Baraka S1183,Mwanza,2023,Biology,15
+1184,Mariam S1184,Mwanza,2023,Mathematics,77
+1184,Mariam S1184,Mwanza,2023,English,54
+1184,Mariam S1184,Mwanza,2023,Physics,63
+1184,Mariam S1184,Mwanza,2023,Chemistry,78
+1184,Mariam S1184,Mwanza,2023,Biology,74
+1185,Salum S1185,Mwanza,2023,Mathematics,83
+1185,Salum S1185,Mwanza,2023,English,88
+1185,Salum S1185,Mwanza,2023,Physics,74
+1185,Salum S1185,Mwanza,2023,Chemistry,54
+1185,Salum S1185,Mwanza,2023,Biology,47
+1186,Omary S1186,Mwanza,2023,Mathematics,61
+1186,Omary S1186,Mwanza,2023,English,75
+1186,Omary S1186,Mwanza,2023,Physics,43
+1186,Omary S1186,Mwanza,2023,Chemistry,35
+1186,Omary S1186,Mwanza,2023,Biology,70
+1187,Amani S1187,Mwanza,2023,Mathematics,71
+1187,Amani S1187,Mwanza,2023,English,63
+1187,Amani S1187,Mwanza,2023,Physics,64
+1187,Amani S1187,Mwanza,2023,Chemistry,43
+1187,Amani S1187,Mwanza,2023,Biology,30
+1188,Baraka S1188,Mwanza,2023,Mathematics,46
+1188,Baraka S1188,Mwanza,2023,English,62
+1188,Baraka S1188,Mwanza,2023,Physics,89
+1188,Baraka S1188,Mwanza,2023,Chemistry,60
+1188,Baraka S1188,Mwanza,2023,Biology,25
+1189,Elizabeth S1189,Mwanza,2023,Mathematics,44
+1189,Elizabeth S1189,Mwanza,2023,English,51
+1189,Elizabeth S1189,Mwanza,2023,Physics,35
+1189,Elizabeth S1189,Mwanza,2023,Chemistry,39
+1189,Elizabeth S1189,Mwanza,2023,Biology,52
+1190,Lightness S1190,Mwanza,2023,Mathematics,57
+1190,Lightness S1190,Mwanza,2023,English,59
+1190,Lightness S1190,Mwanza,2023,Physics,42
+1190,Lightness S1190,Mwanza,2023,Chemistry,34
+1190,Lightness S1190,Mwanza,2023,Biology,72
+1191,Hamisi S1191,Mwanza,2023,Mathematics,46
+1191,Hamisi S1191,Mwanza,2023,English,32
+1191,Hamisi S1191,Mwanza,2023,Physics,74
+1191,Hamisi S1191,Mwanza,2023,Chemistry,48
+1191,Hamisi S1191,Mwanza,2023,Biology,59
+1192,Omary S1192,Mwanza,2023,Mathematics,78
+1192,Omary S1192,Mwanza,2023,English,50
+1192,Omary S1192,Mwanza,2023,Physics,44
+1192,Omary S1192,Mwanza,2023,Chemistry,32
+1192,Omary S1192,Mwanza,2023,Biology,34
+1193,Tumaini S1193,Mwanza,2024,Mathematics,41
+1193,Tumaini S1193,Mwanza,2024,English,52
+1193,Tumaini S1193,Mwanza,2024,Physics,56
+1193,Tumaini S1193,Mwanza,2024,Chemistry,58
+1193,Tumaini S1193,Mwanza,2024,Biology,100
+1194,Prisca S1194,Mwanza,2024,Mathematics,98
+1194,Prisca S1194,Mwanza,2024,English,52
+1194,Prisca S1194,Mwanza,2024,Physics,38
+1194,Prisca S1194,Mwanza,2024,Chemistry,50
+1194,Prisca S1194,Mwanza,2024,Biology,73
+1195,John S1195,Mwanza,2024,Mathematics,36
+1195,John S1195,Mwanza,2024,English,50
+1195,John S1195,Mwanza,2024,Physics,31
+1195,John S1195,Mwanza,2024,Chemistry,64
+1195,John S1195,Mwanza,2024,Biology,37
+1196,Hamisi S1196,Mwanza,2024,Mathematics,67
+1196,Hamisi S1196,Mwanza,2024,English,32
+1196,Hamisi S1196,Mwanza,2024,Physics,50
+1196,Hamisi S1196,Mwanza,2024,Chemistry,57
+1196,Hamisi S1196,Mwanza,2024,Biology,66
+1197,Hamisi S1197,Mwanza,2024,Mathematics,42
+1197,Hamisi S1197,Mwanza,2024,English,34
+1197,Hamisi S1197,Mwanza,2024,Physics,79
+1197,Hamisi S1197,Mwanza,2024,Chemistry,50
+1197,Hamisi S1197,Mwanza,2024,Biology,55
+1198,Zainab S1198,Mwanza,2024,Mathematics,47
+1198,Zainab S1198,Mwanza,2024,English,88
+1198,Zainab S1198,Mwanza,2024,Physics,29
+1198,Zainab S1198,Mwanza,2024,Chemistry,58
+1198,Zainab S1198,Mwanza,2024,Biology,53
+1199,Baraka S1199,Mwanza,2024,Mathematics,33
+1199,Baraka S1199,Mwanza,2024,English,68
+1199,Baraka S1199,Mwanza,2024,Physics,74
+1199,Baraka S1199,Mwanza,2024,Chemistry,55
+1199,Baraka S1199,Mwanza,2024,Biology,46
+1200,Prisca S1200,Mwanza,2024,Mathematics,38
+1200,Prisca S1200,Mwanza,2024,English,36
+1200,Prisca S1200,Mwanza,2024,Physics,48
+1200,Prisca S1200,Mwanza,2024,Chemistry,45
+1200,Prisca S1200,Mwanza,2024,Biology,52
+1201,Yusuf S1201,Mwanza,2024,Mathematics,68
+1201,Yusuf S1201,Mwanza,2024,English,21
+1201,Yusuf S1201,Mwanza,2024,Physics,58
+1201,Yusuf S1201,Mwanza,2024,Chemistry,63
+1201,Yusuf S1201,Mwanza,2024,Biology,56
+1202,Lightness S1202,Mwanza,2024,Mathematics,74
+1202,Lightness S1202,Mwanza,2024,English,56
+1202,Lightness S1202,Mwanza,2024,Physics,77
+1202,Lightness S1202,Mwanza,2024,Chemistry,98
+1202,Lightness S1202,Mwanza,2024,Biology,79
+1203,Baraka S1203,Mwanza,2024,Mathematics,38
+1203,Baraka S1203,Mwanza,2024,English,65
+1203,Baraka S1203,Mwanza,2024,Physics,59
+1203,Baraka S1203,Mwanza,2024,Chemistry,70
+1203,Baraka S1203,Mwanza,2024,Biology,30
+1204,Dotto S1204,Mwanza,2024,Mathematics,46
+1204,Dotto S1204,Mwanza,2024,English,62
+1204,Dotto S1204,Mwanza,2024,Physics,89
+1204,Dotto S1204,Mwanza,2024,Chemistry,51
+1204,Dotto S1204,Mwanza,2024,Biology,90
+1205,Irene S1205,Mwanza,2024,Mathematics,55
+1205,Irene S1205,Mwanza,2024,English,57
+1205,Irene S1205,Mwanza,2024,Physics,73
+1205,Irene S1205,Mwanza,2024,Chemistry,52
+1205,Irene S1205,Mwanza,2024,Biology,52
+1206,Frank S1206,Mwanza,2024,Mathematics,59
+1206,Frank S1206,Mwanza,2024,English,69
+1206,Frank S1206,Mwanza,2024,Physics,37
+1206,Frank S1206,Mwanza,2024,Chemistry,52
+1206,Frank S1206,Mwanza,2024,Biology,30
+1207,Chausiku S1207,Mwanza,2024,Mathematics,60
+1207,Chausiku S1207,Mwanza,2024,English,54
+1207,Chausiku S1207,Mwanza,2024,Physics,44
+1207,Chausiku S1207,Mwanza,2024,Chemistry,80
+1207,Chausiku S1207,Mwanza,2024,Biology,55
+1208,Irene S1208,Mwanza,2024,Mathematics,54
+1208,Irene S1208,Mwanza,2024,English,57
+1208,Irene S1208,Mwanza,2024,Physics,73
+1208,Irene S1208,Mwanza,2024,Chemistry,40
+1208,Irene S1208,Mwanza,2024,Biology,50
+1209,John S1209,Mwanza,2024,Mathematics,56
+1209,John S1209,Mwanza,2024,English,46
+1209,John S1209,Mwanza,2024,Physics,40
+1209,John S1209,Mwanza,2024,Chemistry,35
+1209,John S1209,Mwanza,2024,Biology,65
+1210,Lightness S1210,Mwanza,2024,Mathematics,58
+1210,Lightness S1210,Mwanza,2024,English,65
+1210,Lightness S1210,Mwanza,2024,Physics,64
+1210,Lightness S1210,Mwanza,2024,Chemistry,60
+1210,Lightness S1210,Mwanza,2024,Biology,59
+1211,Upendo S1211,Mwanza,2024,Mathematics,49
+1211,Upendo S1211,Mwanza,2024,English,67
+1211,Upendo S1211,Mwanza,2024,Physics,82
+1211,Upendo S1211,Mwanza,2024,Chemistry,75
+1211,Upendo S1211,Mwanza,2024,Biology,51
+1212,Mariam S1212,Mwanza,2024,Mathematics,48
+1212,Mariam S1212,Mwanza,2024,English,52
+1212,Mariam S1212,Mwanza,2024,Physics,61
+1212,Mariam S1212,Mwanza,2024,Chemistry,45
+1212,Mariam S1212,Mwanza,2024,Biology,79
+1213,Hamisi S1213,Mwanza,2024,Mathematics,36
+1213,Hamisi S1213,Mwanza,2024,English,55
+1213,Hamisi S1213,Mwanza,2024,Physics,67
+1213,Hamisi S1213,Mwanza,2024,Chemistry,58
+1213,Hamisi S1213,Mwanza,2024,Biology,65
+1214,Neema S1214,Mwanza,2024,Mathematics,45
+1214,Neema S1214,Mwanza,2024,English,66
+1214,Neema S1214,Mwanza,2024,Physics,52
+1214,Neema S1214,Mwanza,2024,Chemistry,63
+1214,Neema S1214,Mwanza,2024,Biology,71
+1215,Kelvin S1215,Mwanza,2024,Mathematics,47
+1215,Kelvin S1215,Mwanza,2024,English,39
+1215,Kelvin S1215,Mwanza,2024,Physics,33
+1215,Kelvin S1215,Mwanza,2024,Chemistry,74
+1215,Kelvin S1215,Mwanza,2024,Biology,33
+1216,Salum S1216,Mwanza,2024,Mathematics,45
+1216,Salum S1216,Mwanza,2024,English,81
+1216,Salum S1216,Mwanza,2024,Physics,63
+1216,Salum S1216,Mwanza,2024,Chemistry,61
+1216,Salum S1216,Mwanza,2024,Biology,25
+1217,Neema S1217,Tabora,2022,Mathematics,54
+1217,Neema S1217,Tabora,2022,English,52
+1217,Neema S1217,Tabora,2022,Physics,27
+1217,Neema S1217,Tabora,2022,Chemistry,51
+1217,Neema S1217,Tabora,2022,Biology,28
+1218,Yusuf S1218,Tabora,2022,Mathematics,34
+1218,Yusuf S1218,Tabora,2022,English,65
+1218,Yusuf S1218,Tabora,2022,Physics,42
+1218,Yusuf S1218,Tabora,2022,Chemistry,51
+1218,Yusuf S1218,Tabora,2022,Biology,38
+1219,Winnie S1219,Tabora,2022,Mathematics,40
+1219,Winnie S1219,Tabora,2022,English,44
+1219,Winnie S1219,Tabora,2022,Physics,24
+1219,Winnie S1219,Tabora,2022,Chemistry,63
+1219,Winnie S1219,Tabora,2022,Biology,56
+1220,Rehema S1220,Tabora,2022,Mathematics,47
+1220,Rehema S1220,Tabora,2022,English,40
+1220,Rehema S1220,Tabora,2022,Physics,33
+1220,Rehema S1220,Tabora,2022,Chemistry,33
+1220,Rehema S1220,Tabora,2022,Biology,19
+1221,Amani S1221,Tabora,2022,Mathematics,34
+1221,Amani S1221,Tabora,2022,English,75
+1221,Amani S1221,Tabora,2022,Physics,45
+1221,Amani S1221,Tabora,2022,Chemistry,28
+1221,Amani S1221,Tabora,2022,Biology,32
+1222,Dotto S1222,Tabora,2022,Mathematics,42
+1222,Dotto S1222,Tabora,2022,English,40
+1222,Dotto S1222,Tabora,2022,Physics,59
+1222,Dotto S1222,Tabora,2022,Chemistry,54
+1222,Dotto S1222,Tabora,2022,Biology,27
+1223,Frank S1223,Tabora,2022,Mathematics,46
+1223,Frank S1223,Tabora,2022,English,25
+1223,Frank S1223,Tabora,2022,Physics,27
+1223,Frank S1223,Tabora,2022,Chemistry,54
+1223,Frank S1223,Tabora,2022,Biology,54
+1224,Mariam S1224,Tabora,2022,Mathematics,62
+1224,Mariam S1224,Tabora,2022,English,52
+1224,Mariam S1224,Tabora,2022,Physics,63
+1224,Mariam S1224,Tabora,2022,Chemistry,53
+1224,Mariam S1224,Tabora,2022,Biology,72
+1225,Chausiku S1225,Tabora,2022,Mathematics,51
+1225,Chausiku S1225,Tabora,2022,English,24
+1225,Chausiku S1225,Tabora,2022,Physics,60
+1225,Chausiku S1225,Tabora,2022,Chemistry,60
+1225,Chausiku S1225,Tabora,2022,Biology,42
+1226,Mariam S1226,Tabora,2022,Mathematics,59
+1226,Mariam S1226,Tabora,2022,English,55
+1226,Mariam S1226,Tabora,2022,Physics,28
+1226,Mariam S1226,Tabora,2022,Chemistry,39
+1226,Mariam S1226,Tabora,2022,Biology,62
+1227,Elizabeth S1227,Tabora,2022,Mathematics,43
+1227,Elizabeth S1227,Tabora,2022,English,51
+1227,Elizabeth S1227,Tabora,2022,Physics,25
+1227,Elizabeth S1227,Tabora,2022,Chemistry,58
+1227,Elizabeth S1227,Tabora,2022,Biology,24
+1228,Victor S1228,Tabora,2022,Mathematics,49
+1228,Victor S1228,Tabora,2022,English,48
+1228,Victor S1228,Tabora,2022,Physics,53
+1228,Victor S1228,Tabora,2022,Chemistry,23
+1228,Victor S1228,Tabora,2022,Biology,26
+1229,Prisca S1229,Tabora,2022,Mathematics,58
+1229,Prisca S1229,Tabora,2022,English,6
+1229,Prisca S1229,Tabora,2022,Physics,37
+1229,Prisca S1229,Tabora,2022,Chemistry,32
+1229,Prisca S1229,Tabora,2022,Biology,47
+1230,Hamisi S1230,Tabora,2022,Mathematics,44
+1230,Hamisi S1230,Tabora,2022,English,33
+1230,Hamisi S1230,Tabora,2022,Physics,41
+1230,Hamisi S1230,Tabora,2022,Chemistry,48
+1230,Hamisi S1230,Tabora,2022,Biology,21
+1231,Dotto S1231,Tabora,2022,Mathematics,0
+1231,Dotto S1231,Tabora,2022,English,31
+1231,Dotto S1231,Tabora,2022,Physics,47
+1231,Dotto S1231,Tabora,2022,Chemistry,25
+1231,Dotto S1231,Tabora,2022,Biology,41
+1232,Hamisi S1232,Tabora,2022,Mathematics,19
+1232,Hamisi S1232,Tabora,2022,English,34
+1232,Hamisi S1232,Tabora,2022,Physics,51
+1232,Hamisi S1232,Tabora,2022,Chemistry,71
+1232,Hamisi S1232,Tabora,2022,Biology,41
+1233,Zainab S1233,Tabora,2022,Mathematics,30
+1233,Zainab S1233,Tabora,2022,English,65
+1233,Zainab S1233,Tabora,2022,Physics,48
+1233,Zainab S1233,Tabora,2022,Chemistry,50
+1233,Zainab S1233,Tabora,2022,Biology,33
+1234,Salum S1234,Tabora,2022,Mathematics,52
+1234,Salum S1234,Tabora,2022,English,42
+1234,Salum S1234,Tabora,2022,Physics,68
+1234,Salum S1234,Tabora,2022,Chemistry,68
+1234,Salum S1234,Tabora,2022,Biology,24
+1235,Neema S1235,Tabora,2022,Mathematics,79
+1235,Neema S1235,Tabora,2022,English,39
+1235,Neema S1235,Tabora,2022,Physics,47
+1235,Neema S1235,Tabora,2022,Chemistry,72
+1235,Neema S1235,Tabora,2022,Biology,38
+1236,Tumaini S1236,Tabora,2022,Mathematics,28
+1236,Tumaini S1236,Tabora,2022,English,41
+1236,Tumaini S1236,Tabora,2022,Physics,51
+1236,Tumaini S1236,Tabora,2022,Chemistry,24
+1236,Tumaini S1236,Tabora,2022,Biology,61
+1237,Lightness S1237,Tabora,2022,Mathematics,23
+1237,Lightness S1237,Tabora,2022,English,49
+1237,Lightness S1237,Tabora,2022,Physics,82
+1237,Lightness S1237,Tabora,2022,Chemistry,69
+1237,Lightness S1237,Tabora,2022,Biology,62
+1238,Mariam S1238,Tabora,2022,Mathematics,19
+1238,Mariam S1238,Tabora,2022,English,46
+1238,Mariam S1238,Tabora,2022,Physics,59
+1238,Mariam S1238,Tabora,2022,Chemistry,24
+1238,Mariam S1238,Tabora,2022,Biology,34
+1239,Kelvin S1239,Tabora,2022,Mathematics,48
+1239,Kelvin S1239,Tabora,2022,English,40
+1239,Kelvin S1239,Tabora,2022,Physics,83
+1239,Kelvin S1239,Tabora,2022,Chemistry,45
+1239,Kelvin S1239,Tabora,2022,Biology,61
+1240,Yusuf S1240,Tabora,2022,Mathematics,46
+1240,Yusuf S1240,Tabora,2022,English,37
+1240,Yusuf S1240,Tabora,2022,Physics,78
+1240,Yusuf S1240,Tabora,2022,Chemistry,37
+1240,Yusuf S1240,Tabora,2022,Biology,50
+1241,Victor S1241,Tabora,2023,Mathematics,30
+1241,Victor S1241,Tabora,2023,English,54
+1241,Victor S1241,Tabora,2023,Physics,28
+1241,Victor S1241,Tabora,2023,Chemistry,19
+1241,Victor S1241,Tabora,2023,Biology,52
+1242,Winnie S1242,Tabora,2023,Mathematics,52
+1242,Winnie S1242,Tabora,2023,English,36
+1242,Winnie S1242,Tabora,2023,Physics,54
+1242,Winnie S1242,Tabora,2023,Chemistry,34
+1242,Winnie S1242,Tabora,2023,Biology,42
+1243,Dotto S1243,Tabora,2023,Mathematics,32
+1243,Dotto S1243,Tabora,2023,English,53
+1243,Dotto S1243,Tabora,2023,Physics,63
+1243,Dotto S1243,Tabora,2023,Chemistry,29
+1243,Dotto S1243,Tabora,2023,Biology,20
+1244,Frank S1244,Tabora,2023,Mathematics,35
+1244,Frank S1244,Tabora,2023,English,39
+1244,Frank S1244,Tabora,2023,Physics,37
+1244,Frank S1244,Tabora,2023,Chemistry,50
+1244,Frank S1244,Tabora,2023,Biology,36
+1245,Dotto S1245,Tabora,2023,Mathematics,14
+1245,Dotto S1245,Tabora,2023,English,70
+1245,Dotto S1245,Tabora,2023,Physics,40
+1245,Dotto S1245,Tabora,2023,Chemistry,51
+1245,Dotto S1245,Tabora,2023,Biology,23
+1246,Yusuf S1246,Tabora,2023,Mathematics,23
+1246,Yusuf S1246,Tabora,2023,English,54
+1246,Yusuf S1246,Tabora,2023,Physics,37
+1246,Yusuf S1246,Tabora,2023,Chemistry,24
+1246,Yusuf S1246,Tabora,2023,Biology,61
+1247,Hamisi S1247,Tabora,2023,Mathematics,58
+1247,Hamisi S1247,Tabora,2023,English,57
+1247,Hamisi S1247,Tabora,2023,Physics,91
+1247,Hamisi S1247,Tabora,2023,Chemistry,41
+1247,Hamisi S1247,Tabora,2023,Biology,54
+1248,Lightness S1248,Tabora,2023,Mathematics,28
+1248,Lightness S1248,Tabora,2023,English,0
+1248,Lightness S1248,Tabora,2023,Physics,49
+1248,Lightness S1248,Tabora,2023,Chemistry,56
+1248,Lightness S1248,Tabora,2023,Biology,48
+1249,Mariam S1249,Tabora,2023,Mathematics,31
+1249,Mariam S1249,Tabora,2023,English,30
+1249,Mariam S1249,Tabora,2023,Physics,63
+1249,Mariam S1249,Tabora,2023,Chemistry,55
+1249,Mariam S1249,Tabora,2023,Biology,35
+1250,Grace S1250,Tabora,2023,Mathematics,66
+1250,Grace S1250,Tabora,2023,English,31
+1250,Grace S1250,Tabora,2023,Physics,65
+1250,Grace S1250,Tabora,2023,Chemistry,37
+1250,Grace S1250,Tabora,2023,Biology,33
+1251,Hamisi S1251,Tabora,2023,Mathematics,55
+1251,Hamisi S1251,Tabora,2023,English,52
+1251,Hamisi S1251,Tabora,2023,Physics,35
+1251,Hamisi S1251,Tabora,2023,Chemistry,70
+1251,Hamisi S1251,Tabora,2023,Biology,34
+1252,Frank S1252,Tabora,2023,Mathematics,20
+1252,Frank S1252,Tabora,2023,English,13
+1252,Frank S1252,Tabora,2023,Physics,39
+1252,Frank S1252,Tabora,2023,Chemistry,43
+1252,Frank S1252,Tabora,2023,Biology,13
+1253,Dotto S1253,Tabora,2023,Mathematics,75
+1253,Dotto S1253,Tabora,2023,English,47
+1253,Dotto S1253,Tabora,2023,Physics,36
+1253,Dotto S1253,Tabora,2023,Chemistry,20
+1253,Dotto S1253,Tabora,2023,Biology,32
+1254,Tumaini S1254,Tabora,2023,Mathematics,56
+1254,Tumaini S1254,Tabora,2023,English,46
+1254,Tumaini S1254,Tabora,2023,Physics,12
+1254,Tumaini S1254,Tabora,2023,Chemistry,41
+1254,Tumaini S1254,Tabora,2023,Biology,46
+1255,Amani S1255,Tabora,2023,Mathematics,26
+1255,Amani S1255,Tabora,2023,English,44
+1255,Amani S1255,Tabora,2023,Physics,60
+1255,Amani S1255,Tabora,2023,Chemistry,31
+1255,Amani S1255,Tabora,2023,Biology,34
+1256,Neema S1256,Tabora,2023,Mathematics,54
+1256,Neema S1256,Tabora,2023,English,52
+1256,Neema S1256,Tabora,2023,Physics,22
+1256,Neema S1256,Tabora,2023,Chemistry,56
+1256,Neema S1256,Tabora,2023,Biology,48
+1257,Baraka S1257,Tabora,2023,Mathematics,64
+1257,Baraka S1257,Tabora,2023,English,50
+1257,Baraka S1257,Tabora,2023,Physics,37
+1257,Baraka S1257,Tabora,2023,Chemistry,58
+1257,Baraka S1257,Tabora,2023,Biology,29
+1258,Upendo S1258,Tabora,2023,Mathematics,37
+1258,Upendo S1258,Tabora,2023,English,98
+1258,Upendo S1258,Tabora,2023,Physics,36
+1258,Upendo S1258,Tabora,2023,Chemistry,19
+1258,Upendo S1258,Tabora,2023,Biology,33
+1259,Neema S1259,Tabora,2023,Mathematics,18
+1259,Neema S1259,Tabora,2023,English,40
+1259,Neema S1259,Tabora,2023,Physics,26
+1259,Neema S1259,Tabora,2023,Chemistry,66
+1259,Neema S1259,Tabora,2023,Biology,42
+1260,Hamisi S1260,Tabora,2023,Mathematics,54
+1260,Hamisi S1260,Tabora,2023,English,56
+1260,Hamisi S1260,Tabora,2023,Physics,41
+1260,Hamisi S1260,Tabora,2023,Chemistry,44
+1260,Hamisi S1260,Tabora,2023,Biology,74
+1261,Lightness S1261,Tabora,2023,Mathematics,43
+1261,Lightness S1261,Tabora,2023,English,23
+1261,Lightness S1261,Tabora,2023,Physics,28
+1261,Lightness S1261,Tabora,2023,Chemistry,54
+1261,Lightness S1261,Tabora,2023,Biology,54
+1262,Kelvin S1262,Tabora,2023,Mathematics,57
+1262,Kelvin S1262,Tabora,2023,English,50
+1262,Kelvin S1262,Tabora,2023,Physics,31
+1262,Kelvin S1262,Tabora,2023,Chemistry,50
+1262,Kelvin S1262,Tabora,2023,Biology,43
+1263,Dotto S1263,Tabora,2023,Mathematics,50
+1263,Dotto S1263,Tabora,2023,English,59
+1263,Dotto S1263,Tabora,2023,Physics,55
+1263,Dotto S1263,Tabora,2023,Chemistry,40
+1263,Dotto S1263,Tabora,2023,Biology,49
+1264,Winnie S1264,Tabora,2023,Mathematics,49
+1264,Winnie S1264,Tabora,2023,English,37
+1264,Winnie S1264,Tabora,2023,Physics,40
+1264,Winnie S1264,Tabora,2023,Chemistry,31
+1264,Winnie S1264,Tabora,2023,Biology,2
+1265,Baraka S1265,Tabora,2024,Mathematics,42
+1265,Baraka S1265,Tabora,2024,English,89
+1265,Baraka S1265,Tabora,2024,Physics,18
+1265,Baraka S1265,Tabora,2024,Chemistry,50
+1265,Baraka S1265,Tabora,2024,Biology,47
+1266,Amani S1266,Tabora,2024,Mathematics,32
+1266,Amani S1266,Tabora,2024,English,48
+1266,Amani S1266,Tabora,2024,Physics,54
+1266,Amani S1266,Tabora,2024,Chemistry,52
+1266,Amani S1266,Tabora,2024,Biology,42
+1267,Chausiku S1267,Tabora,2024,Mathematics,72
+1267,Chausiku S1267,Tabora,2024,English,57
+1267,Chausiku S1267,Tabora,2024,Physics,66
+1267,Chausiku S1267,Tabora,2024,Chemistry,26
+1267,Chausiku S1267,Tabora,2024,Biology,31
+1268,Tumaini S1268,Tabora,2024,Mathematics,46
+1268,Tumaini S1268,Tabora,2024,English,30
+1268,Tumaini S1268,Tabora,2024,Physics,44
+1268,Tumaini S1268,Tabora,2024,Chemistry,54
+1268,Tumaini S1268,Tabora,2024,Biology,37
+1269,Elizabeth S1269,Tabora,2024,Mathematics,31
+1269,Elizabeth S1269,Tabora,2024,English,34
+1269,Elizabeth S1269,Tabora,2024,Physics,38
+1269,Elizabeth S1269,Tabora,2024,Chemistry,40
+1269,Elizabeth S1269,Tabora,2024,Biology,51
+1270,Rehema S1270,Tabora,2024,Mathematics,74
+1270,Rehema S1270,Tabora,2024,English,45
+1270,Rehema S1270,Tabora,2024,Physics,42
+1270,Rehema S1270,Tabora,2024,Chemistry,18
+1270,Rehema S1270,Tabora,2024,Biology,46
+1271,Tumaini S1271,Tabora,2024,Mathematics,36
+1271,Tumaini S1271,Tabora,2024,English,49
+1271,Tumaini S1271,Tabora,2024,Physics,64
+1271,Tumaini S1271,Tabora,2024,Chemistry,24
+1271,Tumaini S1271,Tabora,2024,Biology,21
+1272,Hamisi S1272,Tabora,2024,Mathematics,43
+1272,Hamisi S1272,Tabora,2024,English,34
+1272,Hamisi S1272,Tabora,2024,Physics,36
+1272,Hamisi S1272,Tabora,2024,Chemistry,98
+1272,Hamisi S1272,Tabora,2024,Biology,60
+1273,Mariam S1273,Tabora,2024,Mathematics,59
+1273,Mariam S1273,Tabora,2024,English,15
+1273,Mariam S1273,Tabora,2024,Physics,53
+1273,Mariam S1273,Tabora,2024,Chemistry,24
+1273,Mariam S1273,Tabora,2024,Biology,28
+1274,Tumaini S1274,Tabora,2024,Mathematics,4
+1274,Tumaini S1274,Tabora,2024,English,63
+1274,Tumaini S1274,Tabora,2024,Physics,23
+1274,Tumaini S1274,Tabora,2024,Chemistry,46
+1274,Tumaini S1274,Tabora,2024,Biology,44
+1275,Upendo S1275,Tabora,2024,Mathematics,41
+1275,Upendo S1275,Tabora,2024,English,47
+1275,Upendo S1275,Tabora,2024,Physics,59
+1275,Upendo S1275,Tabora,2024,Chemistry,66
+1275,Upendo S1275,Tabora,2024,Biology,45
+1276,Tumaini S1276,Tabora,2024,Mathematics,49
+1276,Tumaini S1276,Tabora,2024,English,56
+1276,Tumaini S1276,Tabora,2024,Physics,55
+1276,Tumaini S1276,Tabora,2024,Chemistry,34
+1276,Tumaini S1276,Tabora,2024,Biology,22
+1277,Kelvin S1277,Tabora,2024,Mathematics,49
+1277,Kelvin S1277,Tabora,2024,English,55
+1277,Kelvin S1277,Tabora,2024,Physics,69
+1277,Kelvin S1277,Tabora,2024,Chemistry,36
+1277,Kelvin S1277,Tabora,2024,Biology,35
+1278,Lightness S1278,Tabora,2024,Mathematics,7
+1278,Lightness S1278,Tabora,2024,English,51
+1278,Lightness S1278,Tabora,2024,Physics,58
+1278,Lightness S1278,Tabora,2024,Chemistry,36
+1278,Lightness S1278,Tabora,2024,Biology,9
+1279,Mariam S1279,Tabora,2024,Mathematics,50
+1279,Mariam S1279,Tabora,2024,English,21
+1279,Mariam S1279,Tabora,2024,Physics,50
+1279,Mariam S1279,Tabora,2024,Chemistry,25
+1279,Mariam S1279,Tabora,2024,Biology,26
+1280,Chausiku S1280,Tabora,2024,Mathematics,42
+1280,Chausiku S1280,Tabora,2024,English,64
+1280,Chausiku S1280,Tabora,2024,Physics,70
+1280,Chausiku S1280,Tabora,2024,Chemistry,24
+1280,Chausiku S1280,Tabora,2024,Biology,18
+1281,Irene S1281,Tabora,2024,Mathematics,36
+1281,Irene S1281,Tabora,2024,English,32
+1281,Irene S1281,Tabora,2024,Physics,62
+1281,Irene S1281,Tabora,2024,Chemistry,48
+1281,Irene S1281,Tabora,2024,Biology,13
+1282,Lightness S1282,Tabora,2024,Mathematics,61
+1282,Lightness S1282,Tabora,2024,English,9
+1282,Lightness S1282,Tabora,2024,Physics,49
+1282,Lightness S1282,Tabora,2024,Chemistry,49
+1282,Lightness S1282,Tabora,2024,Biology,52
+1283,John S1283,Tabora,2024,Mathematics,40
+1283,John S1283,Tabora,2024,English,50
+1283,John S1283,Tabora,2024,Physics,50
+1283,John S1283,Tabora,2024,Chemistry,53
+1283,John S1283,Tabora,2024,Biology,23
+1284,Prisca S1284,Tabora,2024,Mathematics,85
+1284,Prisca S1284,Tabora,2024,English,31
+1284,Prisca S1284,Tabora,2024,Physics,25
+1284,Prisca S1284,Tabora,2024,Chemistry,19
+1284,Prisca S1284,Tabora,2024,Biology,81
+1285,Salum S1285,Tabora,2024,Mathematics,44
+1285,Salum S1285,Tabora,2024,English,30
+1285,Salum S1285,Tabora,2024,Physics,62
+1285,Salum S1285,Tabora,2024,Chemistry,53
+1285,Salum S1285,Tabora,2024,Biology,30
+1286,John S1286,Tabora,2024,Mathematics,60
+1286,John S1286,Tabora,2024,English,38
+1286,John S1286,Tabora,2024,Physics,43
+1286,John S1286,Tabora,2024,Chemistry,63
+1286,John S1286,Tabora,2024,Biology,38
+1287,Mariam S1287,Tabora,2024,Mathematics,54
+1287,Mariam S1287,Tabora,2024,English,37
+1287,Mariam S1287,Tabora,2024,Physics,32
+1287,Mariam S1287,Tabora,2024,Chemistry,53
+1287,Mariam S1287,Tabora,2024,Biology,29
+1288,Irene S1288,Tabora,2024,Mathematics,49
+1288,Irene S1288,Tabora,2024,English,39
+1288,Irene S1288,Tabora,2024,Physics,39
+1288,Irene S1288,Tabora,2024,Chemistry,23
+1288,Irene S1288,Tabora,2024,Biology,56
+1289,Baraka S1289,Katavi,2022,Mathematics,51
+1289,Baraka S1289,Katavi,2022,English,25
+1289,Baraka S1289,Katavi,2022,Physics,9
+1289,Baraka S1289,Katavi,2022,Chemistry,46
+1289,Baraka S1289,Katavi,2022,Biology,60
+1290,Rehema S1290,Katavi,2022,Mathematics,26
+1290,Rehema S1290,Katavi,2022,English,0
+1290,Rehema S1290,Katavi,2022,Physics,17
+1290,Rehema S1290,Katavi,2022,Chemistry,5
+1290,Rehema S1290,Katavi,2022,Biology,51
+1291,Grace S1291,Katavi,2022,Mathematics,56
+1291,Grace S1291,Katavi,2022,English,58
+1291,Grace S1291,Katavi,2022,Physics,64
+1291,Grace S1291,Katavi,2022,Chemistry,43
+1291,Grace S1291,Katavi,2022,Biology,71
+1292,Chausiku S1292,Katavi,2022,Mathematics,18
+1292,Chausiku S1292,Katavi,2022,English,10
+1292,Chausiku S1292,Katavi,2022,Physics,30
+1292,Chausiku S1292,Katavi,2022,Chemistry,71
+1292,Chausiku S1292,Katavi,2022,Biology,44
+1293,Neema S1293,Katavi,2022,Mathematics,51
+1293,Neema S1293,Katavi,2022,English,59
+1293,Neema S1293,Katavi,2022,Physics,51
+1293,Neema S1293,Katavi,2022,Chemistry,48
+1293,Neema S1293,Katavi,2022,Biology,67
+1294,Neema S1294,Katavi,2022,Mathematics,13
+1294,Neema S1294,Katavi,2022,English,25
+1294,Neema S1294,Katavi,2022,Physics,30
+1294,Neema S1294,Katavi,2022,Chemistry,21
+1294,Neema S1294,Katavi,2022,Biology,23
+1295,Mariam S1295,Katavi,2022,Mathematics,38
+1295,Mariam S1295,Katavi,2022,English,54
+1295,Mariam S1295,Katavi,2022,Physics,47
+1295,Mariam S1295,Katavi,2022,Chemistry,41
+1295,Mariam S1295,Katavi,2022,Biology,36
+1296,Yusuf S1296,Katavi,2022,Mathematics,62
+1296,Yusuf S1296,Katavi,2022,English,47
+1296,Yusuf S1296,Katavi,2022,Physics,57
+1296,Yusuf S1296,Katavi,2022,Chemistry,31
+1296,Yusuf S1296,Katavi,2022,Biology,67
+1297,Chausiku S1297,Katavi,2022,Mathematics,46
+1297,Chausiku S1297,Katavi,2022,English,74
+1297,Chausiku S1297,Katavi,2022,Physics,64
+1297,Chausiku S1297,Katavi,2022,Chemistry,18
+1297,Chausiku S1297,Katavi,2022,Biology,31
+1298,Elizabeth S1298,Katavi,2022,Mathematics,62
+1298,Elizabeth S1298,Katavi,2022,English,32
+1298,Elizabeth S1298,Katavi,2022,Physics,40
+1298,Elizabeth S1298,Katavi,2022,Chemistry,43
+1298,Elizabeth S1298,Katavi,2022,Biology,39
+1299,Lightness S1299,Katavi,2022,Mathematics,38
+1299,Lightness S1299,Katavi,2022,English,72
+1299,Lightness S1299,Katavi,2022,Physics,45
+1299,Lightness S1299,Katavi,2022,Chemistry,43
+1299,Lightness S1299,Katavi,2022,Biology,57
+1300,Tumaini S1300,Katavi,2022,Mathematics,72
+1300,Tumaini S1300,Katavi,2022,English,47
+1300,Tumaini S1300,Katavi,2022,Physics,32
+1300,Tumaini S1300,Katavi,2022,Chemistry,43
+1300,Tumaini S1300,Katavi,2022,Biology,45
+1301,Grace S1301,Katavi,2022,Mathematics,28
+1301,Grace S1301,Katavi,2022,English,19
+1301,Grace S1301,Katavi,2022,Physics,70
+1301,Grace S1301,Katavi,2022,Chemistry,47
+1301,Grace S1301,Katavi,2022,Biology,58
+1302,Upendo S1302,Katavi,2022,Mathematics,30
+1302,Upendo S1302,Katavi,2022,English,7
+1302,Upendo S1302,Katavi,2022,Physics,17
+1302,Upendo S1302,Katavi,2022,Chemistry,37
+1302,Upendo S1302,Katavi,2022,Biology,79
+1303,Omary S1303,Katavi,2022,Mathematics,14
+1303,Omary S1303,Katavi,2022,English,49
+1303,Omary S1303,Katavi,2022,Physics,56
+1303,Omary S1303,Katavi,2022,Chemistry,54
+1303,Omary S1303,Katavi,2022,Biology,26
+1304,Upendo S1304,Katavi,2022,Mathematics,57
+1304,Upendo S1304,Katavi,2022,English,27
+1304,Upendo S1304,Katavi,2022,Physics,41
+1304,Upendo S1304,Katavi,2022,Chemistry,35
+1304,Upendo S1304,Katavi,2022,Biology,69
+1305,Victor S1305,Katavi,2022,Mathematics,56
+1305,Victor S1305,Katavi,2022,English,68
+1305,Victor S1305,Katavi,2022,Physics,51
+1305,Victor S1305,Katavi,2022,Chemistry,21
+1305,Victor S1305,Katavi,2022,Biology,38
+1306,John S1306,Katavi,2022,Mathematics,15
+1306,John S1306,Katavi,2022,English,37
+1306,John S1306,Katavi,2022,Physics,46
+1306,John S1306,Katavi,2022,Chemistry,52
+1306,John S1306,Katavi,2022,Biology,64
+1307,Salum S1307,Katavi,2022,Mathematics,2
+1307,Salum S1307,Katavi,2022,English,46
+1307,Salum S1307,Katavi,2022,Physics,51
+1307,Salum S1307,Katavi,2022,Chemistry,63
+1307,Salum S1307,Katavi,2022,Biology,12
+1308,Zainab S1308,Katavi,2022,Mathematics,49
+1308,Zainab S1308,Katavi,2022,English,54
+1308,Zainab S1308,Katavi,2022,Physics,63
+1308,Zainab S1308,Katavi,2022,Chemistry,20
+1308,Zainab S1308,Katavi,2022,Biology,62
+1309,Kelvin S1309,Katavi,2022,Mathematics,24
+1309,Kelvin S1309,Katavi,2022,English,28
+1309,Kelvin S1309,Katavi,2022,Physics,23
+1309,Kelvin S1309,Katavi,2022,Chemistry,25
+1309,Kelvin S1309,Katavi,2022,Biology,44
+1310,Winnie S1310,Katavi,2022,Mathematics,48
+1310,Winnie S1310,Katavi,2022,English,71
+1310,Winnie S1310,Katavi,2022,Physics,49
+1310,Winnie S1310,Katavi,2022,Chemistry,20
+1310,Winnie S1310,Katavi,2022,Biology,56
+1311,Omary S1311,Katavi,2022,Mathematics,45
+1311,Omary S1311,Katavi,2022,English,29
+1311,Omary S1311,Katavi,2022,Physics,54
+1311,Omary S1311,Katavi,2022,Chemistry,36
+1311,Omary S1311,Katavi,2022,Biology,48
+1312,Tumaini S1312,Katavi,2022,Mathematics,71
+1312,Tumaini S1312,Katavi,2022,English,42
+1312,Tumaini S1312,Katavi,2022,Physics,35
+1312,Tumaini S1312,Katavi,2022,Chemistry,6
+1312,Tumaini S1312,Katavi,2022,Biology,65
+1313,Baraka S1313,Katavi,2023,Mathematics,36
+1313,Baraka S1313,Katavi,2023,English,3
+1313,Baraka S1313,Katavi,2023,Physics,40
+1313,Baraka S1313,Katavi,2023,Chemistry,36
+1313,Baraka S1313,Katavi,2023,Biology,48
+1314,John S1314,Katavi,2023,Mathematics,72
+1314,John S1314,Katavi,2023,English,31
+1314,John S1314,Katavi,2023,Physics,38
+1314,John S1314,Katavi,2023,Chemistry,32
+1314,John S1314,Katavi,2023,Biology,68
+1315,Kelvin S1315,Katavi,2023,Mathematics,37
+1315,Kelvin S1315,Katavi,2023,English,37
+1315,Kelvin S1315,Katavi,2023,Physics,41
+1315,Kelvin S1315,Katavi,2023,Chemistry,34
+1315,Kelvin S1315,Katavi,2023,Biology,56
+1316,Elizabeth S1316,Katavi,2023,Mathematics,40
+1316,Elizabeth S1316,Katavi,2023,English,28
+1316,Elizabeth S1316,Katavi,2023,Physics,42
+1316,Elizabeth S1316,Katavi,2023,Chemistry,26
+1316,Elizabeth S1316,Katavi,2023,Biology,60
+1317,Upendo S1317,Katavi,2023,Mathematics,62
+1317,Upendo S1317,Katavi,2023,English,41
+1317,Upendo S1317,Katavi,2023,Physics,31
+1317,Upendo S1317,Katavi,2023,Chemistry,24
+1317,Upendo S1317,Katavi,2023,Biology,32
+1318,Yusuf S1318,Katavi,2023,Mathematics,44
+1318,Yusuf S1318,Katavi,2023,English,30
+1318,Yusuf S1318,Katavi,2023,Physics,45
+1318,Yusuf S1318,Katavi,2023,Chemistry,37
+1318,Yusuf S1318,Katavi,2023,Biology,27
+1319,Rehema S1319,Katavi,2023,Mathematics,49
+1319,Rehema S1319,Katavi,2023,English,43
+1319,Rehema S1319,Katavi,2023,Physics,43
+1319,Rehema S1319,Katavi,2023,Chemistry,54
+1319,Rehema S1319,Katavi,2023,Biology,35
+1320,Baraka S1320,Katavi,2023,Mathematics,28
+1320,Baraka S1320,Katavi,2023,English,37
+1320,Baraka S1320,Katavi,2023,Physics,21
+1320,Baraka S1320,Katavi,2023,Chemistry,44
+1320,Baraka S1320,Katavi,2023,Biology,46
+1321,Prisca S1321,Katavi,2023,Mathematics,55
+1321,Prisca S1321,Katavi,2023,English,54
+1321,Prisca S1321,Katavi,2023,Physics,37
+1321,Prisca S1321,Katavi,2023,Chemistry,57
+1321,Prisca S1321,Katavi,2023,Biology,32
+1322,Frank S1322,Katavi,2023,Mathematics,46
+1322,Frank S1322,Katavi,2023,English,28
+1322,Frank S1322,Katavi,2023,Physics,60
+1322,Frank S1322,Katavi,2023,Chemistry,59
+1322,Frank S1322,Katavi,2023,Biology,8
+1323,Elizabeth S1323,Katavi,2023,Mathematics,50
+1323,Elizabeth S1323,Katavi,2023,English,55
+1323,Elizabeth S1323,Katavi,2023,Physics,47
+1323,Elizabeth S1323,Katavi,2023,Chemistry,38
+1323,Elizabeth S1323,Katavi,2023,Biology,3
+1324,Irene S1324,Katavi,2023,Mathematics,69
+1324,Irene S1324,Katavi,2023,English,25
+1324,Irene S1324,Katavi,2023,Physics,47
+1324,Irene S1324,Katavi,2023,Chemistry,57
+1324,Irene S1324,Katavi,2023,Biology,65
+1325,Frank S1325,Katavi,2023,Mathematics,54
+1325,Frank S1325,Katavi,2023,English,31
+1325,Frank S1325,Katavi,2023,Physics,18
+1325,Frank S1325,Katavi,2023,Chemistry,23
+1325,Frank S1325,Katavi,2023,Biology,64
+1326,Elizabeth S1326,Katavi,2023,Mathematics,22
+1326,Elizabeth S1326,Katavi,2023,English,55
+1326,Elizabeth S1326,Katavi,2023,Physics,26
+1326,Elizabeth S1326,Katavi,2023,Chemistry,76
+1326,Elizabeth S1326,Katavi,2023,Biology,44
+1327,Zainab S1327,Katavi,2023,Mathematics,0
+1327,Zainab S1327,Katavi,2023,English,24
+1327,Zainab S1327,Katavi,2023,Physics,14
+1327,Zainab S1327,Katavi,2023,Chemistry,34
+1327,Zainab S1327,Katavi,2023,Biology,42
+1328,Winnie S1328,Katavi,2023,Mathematics,58
+1328,Winnie S1328,Katavi,2023,English,55
+1328,Winnie S1328,Katavi,2023,Physics,10
+1328,Winnie S1328,Katavi,2023,Chemistry,56
+1328,Winnie S1328,Katavi,2023,Biology,33
+1329,Prisca S1329,Katavi,2023,Mathematics,62
+1329,Prisca S1329,Katavi,2023,English,48
+1329,Prisca S1329,Katavi,2023,Physics,56
+1329,Prisca S1329,Katavi,2023,Chemistry,46
+1329,Prisca S1329,Katavi,2023,Biology,42
+1330,Tumaini S1330,Katavi,2023,Mathematics,59
+1330,Tumaini S1330,Katavi,2023,English,36
+1330,Tumaini S1330,Katavi,2023,Physics,44
+1330,Tumaini S1330,Katavi,2023,Chemistry,56
+1330,Tumaini S1330,Katavi,2023,Biology,52
+1331,Amani S1331,Katavi,2023,Mathematics,55
+1331,Amani S1331,Katavi,2023,English,0
+1331,Amani S1331,Katavi,2023,Physics,21
+1331,Amani S1331,Katavi,2023,Chemistry,31
+1331,Amani S1331,Katavi,2023,Biology,54
+1332,Omary S1332,Katavi,2023,Mathematics,12
+1332,Omary S1332,Katavi,2023,English,21
+1332,Omary S1332,Katavi,2023,Physics,24
+1332,Omary S1332,Katavi,2023,Chemistry,61
+1332,Omary S1332,Katavi,2023,Biology,51
+1333,Lightness S1333,Katavi,2023,Mathematics,57
+1333,Lightness S1333,Katavi,2023,English,38
+1333,Lightness S1333,Katavi,2023,Physics,52
+1333,Lightness S1333,Katavi,2023,Chemistry,41
+1333,Lightness S1333,Katavi,2023,Biology,41
+1334,Upendo S1334,Katavi,2023,Mathematics,31
+1334,Upendo S1334,Katavi,2023,English,45
+1334,Upendo S1334,Katavi,2023,Physics,34
+1334,Upendo S1334,Katavi,2023,Chemistry,24
+1334,Upendo S1334,Katavi,2023,Biology,62
+1335,Victor S1335,Katavi,2023,Mathematics,19
+1335,Victor S1335,Katavi,2023,English,25
+1335,Victor S1335,Katavi,2023,Physics,51
+1335,Victor S1335,Katavi,2023,Chemistry,39
+1335,Victor S1335,Katavi,2023,Biology,79
+1336,Tumaini S1336,Katavi,2023,Mathematics,53
+1336,Tumaini S1336,Katavi,2023,English,50
+1336,Tumaini S1336,Katavi,2023,Physics,37
+1336,Tumaini S1336,Katavi,2023,Chemistry,54
+1336,Tumaini S1336,Katavi,2023,Biology,54
+1337,Kelvin S1337,Katavi,2024,Mathematics,6
+1337,Kelvin S1337,Katavi,2024,English,76
+1337,Kelvin S1337,Katavi,2024,Physics,37
+1337,Kelvin S1337,Katavi,2024,Chemistry,88
+1337,Kelvin S1337,Katavi,2024,Biology,52
+1338,Yusuf S1338,Katavi,2024,Mathematics,57
+1338,Yusuf S1338,Katavi,2024,English,53
+1338,Yusuf S1338,Katavi,2024,Physics,22
+1338,Yusuf S1338,Katavi,2024,Chemistry,32
+1338,Yusuf S1338,Katavi,2024,Biology,35
+1339,Yusuf S1339,Katavi,2024,Mathematics,25
+1339,Yusuf S1339,Katavi,2024,English,66
+1339,Yusuf S1339,Katavi,2024,Physics,62
+1339,Yusuf S1339,Katavi,2024,Chemistry,37
+1339,Yusuf S1339,Katavi,2024,Biology,51
+1340,Prisca S1340,Katavi,2024,Mathematics,52
+1340,Prisca S1340,Katavi,2024,English,38
+1340,Prisca S1340,Katavi,2024,Physics,19
+1340,Prisca S1340,Katavi,2024,Chemistry,54
+1340,Prisca S1340,Katavi,2024,Biology,25
+1341,Dotto S1341,Katavi,2024,Mathematics,53
+1341,Dotto S1341,Katavi,2024,English,59
+1341,Dotto S1341,Katavi,2024,Physics,50
+1341,Dotto S1341,Katavi,2024,Chemistry,51
+1341,Dotto S1341,Katavi,2024,Biology,39
+1342,Salum S1342,Katavi,2024,Mathematics,24
+1342,Salum S1342,Katavi,2024,English,71
+1342,Salum S1342,Katavi,2024,Physics,63
+1342,Salum S1342,Katavi,2024,Chemistry,43
+1342,Salum S1342,Katavi,2024,Biology,17
+1343,Yusuf S1343,Katavi,2024,Mathematics,19
+1343,Yusuf S1343,Katavi,2024,English,7
+1343,Yusuf S1343,Katavi,2024,Physics,59
+1343,Yusuf S1343,Katavi,2024,Chemistry,39
+1343,Yusuf S1343,Katavi,2024,Biology,37
+1344,Omary S1344,Katavi,2024,Mathematics,67
+1344,Omary S1344,Katavi,2024,English,37
+1344,Omary S1344,Katavi,2024,Physics,19
+1344,Omary S1344,Katavi,2024,Chemistry,18
+1344,Omary S1344,Katavi,2024,Biology,27
+1345,John S1345,Katavi,2024,Mathematics,47
+1345,John S1345,Katavi,2024,English,44
+1345,John S1345,Katavi,2024,Physics,46
+1345,John S1345,Katavi,2024,Chemistry,43
+1345,John S1345,Katavi,2024,Biology,57
+1346,Amani S1346,Katavi,2024,Mathematics,68
+1346,Amani S1346,Katavi,2024,English,48
+1346,Amani S1346,Katavi,2024,Physics,48
+1346,Amani S1346,Katavi,2024,Chemistry,59
+1346,Amani S1346,Katavi,2024,Biology,33
+1347,Prisca S1347,Katavi,2024,Mathematics,37
+1347,Prisca S1347,Katavi,2024,English,41
+1347,Prisca S1347,Katavi,2024,Physics,61
+1347,Prisca S1347,Katavi,2024,Chemistry,38
+1347,Prisca S1347,Katavi,2024,Biology,22
+1348,Lightness S1348,Katavi,2024,Mathematics,34
+1348,Lightness S1348,Katavi,2024,English,31
+1348,Lightness S1348,Katavi,2024,Physics,53
+1348,Lightness S1348,Katavi,2024,Chemistry,0
+1348,Lightness S1348,Katavi,2024,Biology,33
+1349,Victor S1349,Katavi,2024,Mathematics,28
+1349,Victor S1349,Katavi,2024,English,28
+1349,Victor S1349,Katavi,2024,Physics,11
+1349,Victor S1349,Katavi,2024,Chemistry,13
+1349,Victor S1349,Katavi,2024,Biology,75
+1350,Mariam S1350,Katavi,2024,Mathematics,18
+1350,Mariam S1350,Katavi,2024,English,63
+1350,Mariam S1350,Katavi,2024,Physics,46
+1350,Mariam S1350,Katavi,2024,Chemistry,22
+1350,Mariam S1350,Katavi,2024,Biology,38
+1351,Victor S1351,Katavi,2024,Mathematics,0
+1351,Victor S1351,Katavi,2024,English,35
+1351,Victor S1351,Katavi,2024,Physics,43
+1351,Victor S1351,Katavi,2024,Chemistry,37
+1351,Victor S1351,Katavi,2024,Biology,47
+1352,Neema S1352,Katavi,2024,Mathematics,10
+1352,Neema S1352,Katavi,2024,English,55
+1352,Neema S1352,Katavi,2024,Physics,12
+1352,Neema S1352,Katavi,2024,Chemistry,43
+1352,Neema S1352,Katavi,2024,Biology,36
+1353,Amani S1353,Katavi,2024,Mathematics,37
+1353,Amani S1353,Katavi,2024,English,44
+1353,Amani S1353,Katavi,2024,Physics,23
+1353,Amani S1353,Katavi,2024,Chemistry,31
+1353,Amani S1353,Katavi,2024,Biology,21
+1354,Neema S1354,Katavi,2024,Mathematics,55
+1354,Neema S1354,Katavi,2024,English,41
+1354,Neema S1354,Katavi,2024,Physics,44
+1354,Neema S1354,Katavi,2024,Chemistry,37
+1354,Neema S1354,Katavi,2024,Biology,39
+1355,Lightness S1355,Katavi,2024,Mathematics,68
+1355,Lightness S1355,Katavi,2024,English,58
+1355,Lightness S1355,Katavi,2024,Physics,39
+1355,Lightness S1355,Katavi,2024,Chemistry,22
+1355,Lightness S1355,Katavi,2024,Biology,22
+1356,Elizabeth S1356,Katavi,2024,Mathematics,46
+1356,Elizabeth S1356,Katavi,2024,English,52
+1356,Elizabeth S1356,Katavi,2024,Physics,31
+1356,Elizabeth S1356,Katavi,2024,Chemistry,73
+1356,Elizabeth S1356,Katavi,2024,Biology,15
+1357,Victor S1357,Katavi,2024,Mathematics,60
+1357,Victor S1357,Katavi,2024,English,35
+1357,Victor S1357,Katavi,2024,Physics,61
+1357,Victor S1357,Katavi,2024,Chemistry,42
+1357,Victor S1357,Katavi,2024,Biology,35
+1358,Zainab S1358,Katavi,2024,Mathematics,66
+1358,Zainab S1358,Katavi,2024,English,28
+1358,Zainab S1358,Katavi,2024,Physics,22
+1358,Zainab S1358,Katavi,2024,Chemistry,44
+1358,Zainab S1358,Katavi,2024,Biology,29
+1359,Tumaini S1359,Katavi,2024,Mathematics,67
+1359,Tumaini S1359,Katavi,2024,English,13
+1359,Tumaini S1359,Katavi,2024,Physics,27
+1359,Tumaini S1359,Katavi,2024,Chemistry,33
+1359,Tumaini S1359,Katavi,2024,Biology,35
+1360,Kelvin S1360,Katavi,2024,Mathematics,20
+1360,Kelvin S1360,Katavi,2024,English,44
+1360,Kelvin S1360,Katavi,2024,Physics,51
+1360,Kelvin S1360,Katavi,2024,Chemistry,23
+1360,Kelvin S1360,Katavi,2024,Biology,44
